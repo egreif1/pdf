@@ -1,0 +1,8 @@
+This is a test document. We are using it to see if we can find the paragraphs, with the terms like dog.
+
+Or cat. Dog.
+
+That we think are relevant information for everything.
+
+
+For instance, this paragraph has dog in it so it's definitely relevant.
