@@ -10,14 +10,19 @@ def find_paras(file,term):
 		paragraphs = f.readlines()
 
 	# for each paragraph, check if it contains the term
+	list = []
 	for p in paragraphs:
 		if term in p.lower():
-			print p
+			list.append(p)
+
+	return list
 
 # main
 if __name__ == "__main__":
 
-	find_paras("test.txt","dog")	
+	p = find_paras("test.txt","dog")	
+	for line in p:
+		print line
 	
 
 
