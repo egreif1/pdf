@@ -3,8 +3,8 @@
 # 8/20/2013
 #
 
-# returns a list of paragraphs from file with the term
-def find_paras(file,term):
+# returns a list of paragraphs from file with any of the terms in the list terms
+def find_paras(file,terms):
 	# get the lines of a file as a list
 	with open(file) as f:
 		paragraphs = f.readlines()
@@ -12,8 +12,13 @@ def find_paras(file,term):
 	# for each paragraph, check if it contains the term
 	list = []
 	for p in paragraphs:
-		if term in p.lower():
-			list.append(p)
+		include = FALSE
+		for term in terms:
+			if term in p.lower():
+				include = TRUE
+			if include:
+				list.append(p)
+			break
 
 	return list
 
