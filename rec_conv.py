@@ -5,21 +5,37 @@
 
 import sys
 import os
-
-def rec_convert(directory):
-	if(not(os.path.exists(directory) or os.path.isdir(directory))):
-		return -1
-
-	# get contents of the directory
-	for file in os.listdir(directory):
-		if (os.path.isdir(directory+file)):
-			rec_convert(directory+file)
-		elif (not(file[0] == ".")):
-			# put the conversion here
-			print(file)
+from subprocess import call
 
 
+# class for individual company
+class Company:
 
+	# list of txt files that correspond to the company
+	files = []	
+
+	def __init__(self,directory):
+		self.dir = directory
+		self.recConvert(directory)	
+
+
+	def recConvert(self,directory):
+		for file in os.listdir(directory):
+			
+			if (os.path.isdir(directory+file)):
+				if(not(file[0] == ".")):
+					print(directory+file)
+					self.recConvert(directory+file+"/")
+
+			elif (not(file[0] == ".")):
+				# check that file is pdf then convert to txt
+				if (file[-4:] == ".pdf"):
+					print(directory+file)
+					call(["pdftotext",directory+file])
+					files.append(directory+file)				
+		
+		
+		
 
 	
 
@@ -27,4 +43,4 @@ if __name__ == "__main__":
 	if (len(sys.argv) < 2):
 		sys.exit("Not enough arguments.")
 
-	rec_convert(sys.argv[1])
+	c = Company(sys.argv[1])
