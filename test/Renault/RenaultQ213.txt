@@ -1,0 +1,878 @@
+Company Name: Renault
+Company Ticker: RNO FP
+Date: 2013-07-26
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 17,489.02
+Current PX: 59.14
+YTD Change($): +18.455
+YTD Change(%): +45.361
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 7.209
+Bloomberg Estimates - Sales
+Current Quarter: N.A.
+Current Year: 41540.000
+
+Q2 2013 Earnings Call
+Company Participants
+• Thierry Huon
+• Dominique Thormann
+• Carlos Tavares
+
+Other Participants
+•
+•
+•
+•
+•
+•
+•
+
+Thomas Besson
+Laura I. Lembke
+Philip R. Watkins
+Charles A. Winston
+Gaëtan Toulemonde
+Rabih Freiha
+Horst Schneider
+
+MANAGEMENT DISCUSSION SECTION
+Operator
+Ladies and gentlemen, welcome to Renault's First Half 2013 Financial Results Conference Call. I'll now hand over to
+Mr. Huon. Sir, please go ahead.
+
+Thierry Huon
+Good morning, everyone. Welcome to Renault First Half Results Conference Call, which is broadcast live and in replay
+versions on our Web site. The presentation file, press release and activity pack for this call are all available on our Web
+site in the Finance section.
+I would like to point out the disclaimer on slide two of this pack regarding the information contained within this
+document and, in particular, about forward-looking statements. I invite all participants to read this.
+Today's meeting is scheduled to last about one hour. As usual, we have two key speakers this morning. First up will be
+Dominique Thormann, our CFO. He will take you through the highlights of the financial results. And then Carlos
+Tavares, our COO, will follow up with a review of the operations and the outlook. The presentation will last around 30
+minutes and will be followed by Q&A session.
+Without further ado, I will hand over to Dominique.
+
+Dominique Thormann
+Thank you, Thierry. Good morning, everyone. As you will have already seen from the headlines, the group's financial
+results for the first half of 2013 show that Renault has managed to improve its operating margin in the Auto division
+despite a tougher-than-expected European market. This came notably from a strong invoicing activity in the second
+quarter. Due to special items, primarily related to Iran, our EBIT was negative, and our net profit came to a bit less than
+
+Page 1 of 14
+
+Company Name: Renault
+Company Ticker: RNO FP
+Date: 2013-07-26
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 17,489.02
+Current PX: 59.14
+YTD Change($): +18.455
+YTD Change(%): +45.361
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 7.209
+Bloomberg Estimates - Sales
+Current Quarter: N.A.
+Current Year: 41540.000
+
+€100 million. I will come back to these impacts in more detail in a few minutes.
+Our free cash flow was slightly negative and remained under control, leaving us on track to achieve a positive
+automotive operational free cash flow for the full year, provided no further material deterioration in market conditions
+in the second half. In order to analyze the first half performance, I would like to briefly comment the commercial
+figures on slide five that Carlos will detail later on.
+Our Group unit sales declined 1.9% to 1.3 million units. The slight decrease hides again a contrasted situation between
+Europe and business outside of Europe. In Europe, our sales were down 7.3%, while sales on international markets
+increased by 4.3%.
+On slide six we have the full P&L for the Group which shows an operating margin improvement compared to the
+previous period. This illustrates our efforts in terms of pricing and cost control.
+Starting with the top line, group revenues reached €20.441 billion, a decrease of €181 million from last year or 0.9%.
+Please note that we had some minor adjustments stemming from accounting method changes in 2012. You will find a
+table with restated numbers at the end of the pack.
+On the next slide, number seven, we show the revenue contribution by activity. Revenues from our Captur sales
+financing company, RCI Banque, decreased 1.1% to €1.058 billion in the period. However, as you all know, measuring
+revenues for sales financing is not the indicator of choice in terms of their performance, which I will detail in a few
+minutes.
+I will start by looking at the breakdown of revenues for the automotive activity on slide eight, which decreased by 0.9%
+in the period to €19.383 billion. It is worth noting that second quarter revenues increased 8.2% after the 11.8% decline
+experienced in Q1.
+If we look in detail and starting on the left-hand side of the page, the first item is foreign exchange, which is negative at
+minus €605 million. Almost all of our major currencies moved against us. However, the major impact came from the
+Iranian rial, the Argentinian peso, the Brazilian real as the primary ones.
+The second item, volume shows a negative impact of 0.8%. This confirms that our business in Q2 was much better than
+in Q1 when volumes impacted negatively for 11%. However, part of this improvement stemmed from higher invoices
+than registrations, leading to independent dealer stock increases.
+Geographical mix is almost neutral, despite weak business in France and expansion outside of Europe. This confirms
+that we have reduced the pricing gap of our vehicles in Europe and overseas markets.
+The fourth item to note is the mix effect. The increase in net revenue per unit related to product, version and option
+impacted for 0.7% of the total change in revenues.
+The fifth item is the price effect, which is positive by 2%, showing a further sequential improvement. This material step
+up in first half 2013 compared to first half 2012 reflects a strong effort deployed by the company to offset the currency
+effect in some countries but also reflecting our pricing discipline in a tough environment. Sales to partners, representing
+mainly the sales of parts, components and built-ups to other car manufacturers is positive by 1%, primarily thanks to
+Citan deliveries to Daimler. The last item named others represents the other activities outside the new car business,
+mainly spare parts, our wholly owned dealer subsidiaries and buyback restatements.
+I will now turn from automotive revenues to Group operating margin variances. The first half operating margin for the
+Group totaled €583 million, an increase of €75 million compared to the same period one year ago after a positive
+restatement of €26 million stemming from IAS 19 rule adjustments already mentioned previously.
+The walk down on this slide compares this year's impact to the previous period. I will start the walk down reading from
+left to right. Currencies had a material negative impact in the first half of €242 million, as it's the same currencies
+explain this impact as for revenues. The next item, volume shows a €34 million negative impact coming from the
+decrease in units invoiced including the geographic mix.
+
+Page 2 of 14
+
+Company Name: Renault
+Company Ticker: RNO FP
+Date: 2013-07-26
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 17,489.02
+Current PX: 59.14
+YTD Change($): +18.455
+YTD Change(%): +45.361
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 7.209
+Bloomberg Estimates - Sales
+Current Quarter: N.A.
+Current Year: 41540.000
+
+Mix price enrichments impacted positively for €261 million. Without the impact of price increases implemented in Iran
+and Argentina to compensate for weaker currencies, this item would have been only slightly negative and significantly
+better than last year. This achievement is resulting from our strict pricing discipline, helped by the success of recently
+launched models. Raw materials were a slight tailwind of €13 million, in line with our initial expectations.
+For the next part of the walk down, we have grouped four items, which together form the major part of our Monozukuri
+cost reduction efforts. Purchasing savings equaled €303 million. Warranty came in as a neutral impact. Manufacturing
+and logistics costs increased by €27 million and were negatively impacted by production disruptions in the first quarter.
+The R&D charge in the profit and loss account increased by €70 million as the capitalization rate moved from 45% in
+the first half of 2012 to 40% in the first half of 2013, in relation with development milestones. Total Monozukuri
+savings, therefore, came to a positive €206 million. G&A costs decreased €19 million, proof of the strong efforts
+deployed by the company to limit fixed costs.
+RCI Banque had another strong half despite a slight increase in distribution costs, reflecting higher services
+internationally, as I will explain later. Consequently, its contribution decreased marginally by €8 million.
+Finally, all other items yielded a negative €141 million related primarily to buyback restatements, lower spare parts
+activity and wholly-owned dealer business. The remainder came from smaller items. In total, for the first half of 2013,
+the group's operating margin reached €583 million or 2.9% of revenues to be compared to 2.5% in the same period last
+year.
+On page ten, we show the split by sector. The automotive division posted a €211 million operating margin
+corresponding to 1.1% of revenues. The 0.5 points – this is 0.5 points above last year's performance achieved in an
+adverse environment in Europe. It is the result of our constant efforts to restore auto profitability. However, we should
+not overlook the performance of our sales financing activity as RCI Banque posted a €372 million contribution to group
+margin, which is very near the result achieved in the first half of 2012.
+I would like to take a few moments to look at the analysis of this performance on the next slide. New financings in the
+period stayed almost flat at €5.5 billion versus €5.6 billion in the corresponding period of last year despite a difficult
+environment. This resilience stemmed from higher penetration rates for Renault, Dacia and Nissan brands.
+Average outstanding loans stayed flat at €24 billion and net banking income decreased 25 basis points due to the higher
+distribution cost related to growing international services activity I mentioned previously. The cost of risk showed a
+slight improvement at 0.4 percentage points average – of average outstandings versus 0.44% last year. The decrease
+evidenced once again our ability to manage risk even in a volatility economic environment.
+Finally, cost management allowed keeping our operating expense ratio at 1.57% of average outstanding loans with
+three basis points above last year. In total, the pre-tax return on assets reached 3.2% versus 3.4% in the first half of
+2012, while our return on equity remained at around 20%.
+Now that we have covered the operating margin variance, I will continue down the P&L with the other operating
+income and expense items on slide 12. While these items posted a net positive result in the first half of 2012 for €37
+million, the same period this year shows a significant negative result of minus €832 million.
+The first and main item is a charge of €512 million which relates to our decision to deconsolidate our business in Iran
+and to cover all of our pending related risks. This decision is the consequence of stricter sanctions decided by the US
+government which now include the automotive sector in the regime. Of course, in the event of an improvement in the
+situation, we would be able to write back these provisions.
+The second item relates to the impairment of assets, both tangible and intangible, amounting to a charge of €227
+million.
+The last item accounts for €173 million and stems from restructuring charges. The bulk of this provision is for the start
+of the implementation of our competitiveness agreement signed with the unions in the first quarter in France.
+
+Page 3 of 14
+
+Company Name: Renault
+Company Ticker: RNO FP
+Date: 2013-07-26
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 17,489.02
+Current PX: 59.14
+YTD Change($): +18.455
+YTD Change(%): +45.361
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 7.209
+Bloomberg Estimates - Sales
+Current Quarter: N.A.
+Current Year: 41540.000
+
+On the positive side, we have €71 million of capital gains resulting from disposal of assets. Lastly, other miscellaneous
+items impacted positively for €9 million.
+Continuing down the P&L, the next item is net financial income and expenses on slide 13. The net charge decreased
+from €154 million to €139 million. While decreasing, this charge is still relatively high due to the carry cost and to the
+impact of IAS 19, which transfers the actuarial cost of pension obligations from the operating margin to the financial
+result.
+The next slide, number 14, shows the impact of associated companies in Renault's P&L. I remind you that Volvo is no
+longer in our scope of consolidation since we sold our remaining stake at the end of last year.
+On the back of Nissan's results published yesterday, the contribution for the second quarter equaled €333 million,
+taking the first half impact to €766 million, up €213 million compared to the same period last year. Renault's share in
+AvtoVAZ results, which is consolidated with a three-month time lag, posted a slight negative of €10 million versus a
+positive €4 million in the corresponding period last year.
+I will turn back to the P&L for the last time on page 15 where the net tax charge for the half came to a negative €264
+million compared to a minus €236 million in the first half of 2012. This charge is mainly resulting from taxes paid
+abroad, which amounted to €230 million. Bottom line, net profit after-tax came in at €97 million. After taking account
+of minorities, the net result per share came to €0.14 compared to €2.70 in the first half of 2012.
+Now that I have completed the analysis of the P&L, I will turn to slide 16 on the evolution of our net automotive debt.
+Cash flow from operations totaled €1.655 billion. Changes in the working capital requirement impacted negatively by
+€138 million. I will review this further in a few moments.
+Net tangible and intangible investments came to €1.548 billion. As a result, automotive operational free cash flow came
+to a slight negative of €31 million. Dividends received from quoted companies totaled €217 million. As a reminder, no
+dividend was received from Volvo in the period. While dividends paid during the half came to €524 million, reflecting
+the application of our dividend policy of distributing each year dividends received from associates during the previous
+year.
+Other financial items were negative €462 million, including the cash payments for our increased stake in Alliance
+Rostec Auto, which is a joint venture controlling AvtoVAZ and the impact of the deconsolidation of our business in
+Iran. In summary, the net automotive financial position moved from a positive €1.532 billion to a positive €732 million.
+Slide 17 shows the change in the working capital requirement recorded in the first half at minus €138 million. Trade
+payables remained positive in the period at €579 million. Inventories rose in line with the normal seasonal variance as
+did receivables. Other working capital items impacted positively for €177 million.
+Slide 18 shows the inventory situation across the consolidated chain of both Renault's balance sheet and independent
+dealer network. While inventories have been reduced at the group level in Q2, we have seen an increase at the dealer
+level. It is worth noting that as our sales mix outside of Europe expands, it increases the level of natural stock due to the
+longer supply chain. At the end of June, inventory outside of Europe represented 46% of total stock on hand.
+The stock rotation figure expressed in the total inventory level at the end of June, divided by the sales of the previous
+quarter, stands at 67 days, down from 72 days at the end of Q1. As you know, we need to build some inventories at the
+end of Q2 ahead of the summer break and this is especially true this year as we have some new products in high
+demand. However, we must admit that, once again, we were a bit optimistic about European demand in Q2 and
+overproduced in the quarter.
+I would now like to move to the automotive liquidity reserve on slide 19. Cash and cash equivalents totaled €9.2 billion
+at the end of the first half, slightly below the end of last year. But it is worth noting that we reimbursed in the first half
+the bulk of our long-term debt maturities due this year.
+Together, with the fully available undrawn credit lines, the automotive gross liquidity reserve stands at €12.6 billion at
+the end of the first half. We continued during this last quarter to be opportunistic and to raise cash in overseas markets
+
+Page 4 of 14
+
+Company Name: Renault
+Company Ticker: RNO FP
+Date: 2013-07-26
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 17,489.02
+Current PX: 59.14
+YTD Change($): +18.455
+YTD Change(%): +45.361
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 7.209
+Bloomberg Estimates - Sales
+Current Quarter: N.A.
+Current Year: 41540.000
+
+such as Japan and offshore Chinese issuance.
+RCI's liquidity position has also remained strong, as we can see on slide 20. RCI Banque raised about €2.3 billion of
+new funding with a maturity greater than one year. In the meantime, we've also continued to develop Zesto, our online
+retail savings account, which has far exceeded initial projections. At the end of the period under review, Zesto had
+collected almost €1.2 billion in deposits.
+Beyond the success in France, we launched at the beginning of the year Renault Bank Direkt in Germany which has
+already collected an amazing €1.4 billion, out of which €300 million have been placed in term deposits. In total, this
+new activity accounted for €1.7 billion in new funding in the period and we, therefore, aim to reach 20% to 25% of
+RCI's total outstandings in funding by the end of 2016.
+This completes my financial review for the first half of 2013. I will now pass the floor to Carlos Tavares for the
+operational review and outlook. Thank you very much for your attention.
+
+Carlos Tavares
+Thank you, Dominique. Good morning, ladies and gentlemen. Let me walk you through the operations outlook starting
+with the sales. As Dominique already explained, our overseas sales were up by 4%, while the European ones were
+down by 7%. As a result, our total sales were down by 1.9% and 0.9% in turnover.
+If you look at the breakdown per region, you'll see that in terms of market share, Europe was marginally down, while
+Eurasia was up. Euromed was slightly down also, mostly for the supply and planning issue. The Americas were down
+because we had to stop our Curitiba plant for two months in order to increase our manufacturing capacity by 100,000
+cars per year and Asia-Pacific was up.
+We have revised, as you know, at the end of the first quarter our forecast for the European TIV, moving down from
+minus 3% to minus 5%, and we still keep this forecast as the UK market is still quite strong.
+Overall, we keep minus 5% for Europe and we have revised our French TIV down to 8% coming from minus 5%, to
+now minus 8%.
+If we move to the next one, you see that the volumes are up in overseas, 4.3%. That means that our market share
+outside of Western Europe has improved, while in Europe we were marginally down minus 0.06% which is marginal
+and this situation could be stabilized despite a high discipline in pricing, as Dominique mentioned, thanks to the brand
+new models that appear to be quite successful in this market.
+Overall, we were down 1.9% and in turnover 0.9%. If we move to the next slide, you'll see that major points are related
+to the fact that our mix of sales continues to move to overseas. As you see, compared to the first half of 2012, we have
+improved our overseas sales mix by three points, moving up from 47% to 50%, which means that step by step, Renault
+is moving to become a global carmaker.
+You can also notice that in the top ten markets of Renault, we were able to grow share in six of those top ten markets.
+As you see on the right-hand side of this slide, we lost share in Brazil because of the manufacturing problem that I
+mentioned, the need to increase manufacturing capacity and then shut down the plant for two months. This has been
+now done and we are back on track and expect to recover the lost volumes in the second half. We also want to notice
+that in these top ten markets of Renault, five of them are now non-Europeans. This is an important point to be noticed.
+So far, on first half of 2013, the highest sales come from Duster, following the new Clio and then by Megane.
+If we move now to the regional breakdown, looking at Europe, as I mentioned, we were marginally down in Europe by
+0.06% around this year to minus 0.01%. We have 9.2% share. France was up by 0.02% and now reaches 24.9% of
+share. As you see, the overall volumes were down because of the TIV drop, as you know, minus 7% against last years.
+Two important highlights, the first, the fact that the Dacia brand has been the strongest – has seen the strongest market
+share improvement in the market, 0.42 points ahead of Mercedes, and which has now a total market share of 2%. Also,
+
+Page 5 of 14
+
+Company Name: Renault
+Company Ticker: RNO FP
+Date: 2013-07-26
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 17,489.02
+Current PX: 59.14
+YTD Change($): +18.455
+YTD Change(%): +45.361
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 7.209
+Bloomberg Estimates - Sales
+Current Quarter: N.A.
+Current Year: 41540.000
+
+other highlight, the fact that we continue for the 16th year in a row to be leading the RCB market in Europe with a
+14.2% of share ahead of Volkswagen.
+Let's move now to the breakdown of sales by channel. Just to highlight the fact that if you look at the bottom of this
+slide, you see that our sales are mostly focusing on retail and fleet and much less in rental and tactical sales, as you can
+see on the right-hand side of this slide, which means that the sales of Renault beyond the pricing discipline that
+Dominique already highlighted, we also had the discipline to move our business to the most profitable channels.
+As you can see here, against the overall market, we have much more focus on retail and fleet and much less focus on
+short-term rental and OEM tactical sales. Overall, you can see the breakdown of our business, but this translates to a
+more healthy business model overall in an overall market where unfortunately the retail channel has been decreasing by
+1 point over this first half of the year.
+If we move now to the Eurasia region, to highlight the fact that we have improved our share by 0.9 points, and mostly
+in Russia where the share was up by 1.1 point, reaching now 7.8% of the market. As you see, the volumes grew from
+104,000 units up to 114,000 units in the most profitable region of our business.
+You can also note that Duster is now the highest SUV sales in this biggest market which is Russia. Ahead of Toyota,
+Duster is sold at 14,000 sales on this first half, while Toyota was slightly above 20,000. So number one sales in SUV in
+Russia. And in Russia, also, Renault is now the second brand in the market overall, just behind the first one, which is
+Lada.
+So if we move now to the next region, which is Euromed-Africa, as already mentioned, our market share was slightly
+down by 0.2 points, as we were surprised by the strength of the TIV and couldn't supply in a timely manner the
+appropriate number of cars. This is going to be fixed for the second half and we still have 15.4% of market share in this
+region. Turkey is our most important market here with Algeria. Turkey could reach 17.2% market share, which
+represents an increase of 0.7%. As you see, total sales went up from 184,000 cars to 197,000 cars and we expect this to
+continue to be a growth region for our business moving forward.
+Clio 4, the new Clio has been a huge success in the most important markets of the region. In Algeria and in Turkey,
+Clio is now the first in its segment and has reached the third market position in Algeria and the fourth in Turkey. We
+also continue to work on pushing new frontiers and pushing the boundaries by making more deals with new importers
+in major African countries like Ghana, Nigeria and Libya.
+If we move to the next region, now the Americas, as I mentioned, the Americas had a reduction, saw a reduction in its
+market share by 0.5 points, down to 6.2%, mostly driven by Brazil, minus 0.8 points, now at 6% market share as a
+consequence of the Curitiba shut down for the manufacturing capacity increase. As you see, we were 5,000 sales down
+compared to the previous year on first half. You can also notice that Duster was the second most sold SUV in the
+market, just behind the Ford EcoSport. And that we have launched successfully the new master which has reached the
+first place in its segment in June in the Brazilian market.
+If we move now to Asia-Pacific, Asia-Pacific market share was stable at a still very low market share of 0.7%. This
+represents for our company a big opportunity moving forward. India was the success story with now a market share of
+2.5%, increasing the market share by 2.3 points against last year, thanks to the success of Duster. In India, Renault is
+now the second European brand and we continue to see good potential for our business over there.
+And as an highlight, beyond the fact that we are the first European brand in India, we were also pleased to see that we
+could sign for a significant fleet of 1,400 taxis in Singapore with our Latitude sedan.
+If we now move to the next slide, which is the balance of risks and opportunities for the second half, we would
+highlight the fact that the European TIV is still very low. As you know, it has been decreasing significantly. And with a
+new forecast, we now foresee that we will be short of 14 million cars for this year of 2013, moving down from a peak
+of 18 million a few years ago. So European TIV is still slow and still going down even if the pace of reduction has been
+reduced.
+
+Page 6 of 14
+
+Company Name: Renault
+Company Ticker: RNO FP
+Date: 2013-07-26
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 17,489.02
+Current PX: 59.14
+YTD Change($): +18.455
+YTD Change(%): +45.361
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 7.209
+Bloomberg Estimates - Sales
+Current Quarter: N.A.
+Current Year: 41540.000
+
+In addition to the risks, we have the slowing down in some of the emerging markets that you have, of course, already
+noticed, which represents now a risk for our business as we have 50% of our sales outside of Europe. And last risk is
+the fact that most of the currencies of emerging markets are now weakening, which represents a profit risk for the
+company.
+On the opportunity side, we have a very important factor which is the fact that we have renewed significant part of our
+portfolio and I would like to highlight the successes of the new Clio, of ZOE and the success of Captur that led to an
+increase of the number of shifts we have in our Valladolid plant in Spain to face the success that we are having on the
+marketplace with this product. The fact that we have significantly improved our net pricing performance – and I will
+come back to this point late on – and it still demonstrates that there is still additional potential on this matter. And
+finally, the fact that we have been able to stabilize our fixed cost and there is still an opportunity to reduce them.
+So let's go through some of those levers on slide number 33. As it was mentioned by Dominique, our automotive
+operating margin went up against last year and is somewhere one of the major drivers of the improvement of the total
+profit of the company. We are now working on four major levers to improve the operating profit margin of the
+company.
+As you know well, we have worked on pricing improvement by improving the net pricing of our company compared to
+our competitors. We are working on reducing the fixed cost by implementing the French competitiveness agreement.
+We have a significant direction and a significant activity in reducing our variable costs with our plant managers. And
+we still have opportunities to grow mostly overseas, but also in share in Europe, thanks to the new models that we have
+launched successfully.
+So if we move through these levers, and on the next slide, you will see the net pricing improvement compared to the
+end of 2011, against the basket of our major competitors that we scrutinize on a segment by segment basis in each
+market. We have improved the net pricing by six points against the end of 2011, which has contributed to the results
+that you have seen. And you see that, for instance, in Europe, we have improved our net pricing by 6.2 points, 5.5
+points in Eurasia, 6.6 points in Latin America, and a little bit more than 1 point in Asia-Pacific, while in Euromed we
+could not improve more than 0.3 points. So, overall, 6 points of a net pricing improvement against our competitors.
+We still have overall a gap against Volkswagen of 5 points, and this gap of 5 points of net pricing which was a
+double-digit gap a few years ago is still a remaining opportunity to improve the profitability of the company. Overall, if
+we look at it region by region, our pricing strategy is now meeting our guidelines in terms of positioning against the
+basket, but against Volkswagen, we still have an opportunity.
+So if we move to the next one, which is the fixed costs, I think it is fair to say that we have strictly controlled our fixed
+cost, but the remaining opportunity is to reduce them. And this is what the implementation of the French
+competitiveness agreement is all about, and we expect this trend of fixed cost reduction to accelerate during the second
+half and through the year of 2014.
+As you see, during this storm, we have been able to stabilize the overall rate of R&D and CapEx expenses against the
+turnover at around 80% plus, and we have not compromised the mid and long-term future of the company.
+On the next slide, you can see the Monozukuri results that we have achieved. They do not meet so far our expectations
+as we want to deliver this year €600 million on total Monozukuri gains, but it is fair to say that there is a strong
+momentum in the company. The amount of ideas to generate cost reduction is quite outstanding and meeting our
+expectations. And the second half will be paramount to execute and make sure that all of those ideas are translated into
+physical evidence and then measured at the P&L level.
+If we move to the next slide, which is about the outlook, as it was mentioned, the TIV outlook is a growth of 2% over
+the year of 2013, Europe at minus 5% and different regions at the levels that you see here. The only overseas region
+where we see a TIV reduction is in Eurasia. But as you have seen, our market share growth has been so significant that
+it has overcome the TIV reduction and our volumes in Eurasia are still expected to grow over this year.
+
+Page 7 of 14
+
+Company Name: Renault
+Company Ticker: RNO FP
+Date: 2013-07-26
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 17,489.02
+Current PX: 59.14
+YTD Change($): +18.455
+YTD Change(%): +45.361
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 7.209
+Bloomberg Estimates - Sales
+Current Quarter: N.A.
+Current Year: 41540.000
+
+If we move to the next slide, this is to confirm our guidance in terms of having in 2013, unit sales above 2012; a
+positive automotive operating margin, which is already the case in H1; and a positive automotive operational free cash
+flow. And as you saw, we were marginally negative on the first half.
+I would like to end my presentation here. And thank you for your attention and over back to Thierry.
+
+Thierry Huon
+Thank you, Carlos, for this presentation. So we have about 30 minutes left for the Q&A session. We'll take the first
+question.
+
+Q&A
+Operator
+[Operator Instructions] Thank you. We have our first question from Thomas Besson from Kepler Cheuvreux. Please go
+ahead.
+<Q - Thomas Besson>: Thank you. And it's Thomas Besson. Three quick questions please. First, could you please
+comment on your order intake in the different regions, particularly in Europe, and tell us whether you think there is still
+further deterioration to come on the retail side or whether we've seen the trough for that segment? Yes. Sorry, I'll ask
+them one-by-one.
+<A - Carlos Tavares>: Our order intake in Europe is now stabilized against the previous year of 2012. We are 1.7
+month currently, which is a reasonable number even though, of course, we would like it to be even higher, but it
+stabilized against last year. That's, I think, the best way to summarize it.
+<Q - Thomas Besson>: Okay. And on the retail side? Do you think we've seen the trough or.
+<A - Carlos Tavares>: Yes, this is retail. What I was answering to you was retail.
+<Q - Thomas Besson>: Okay, great. On your exposure to emerging markets that you flag as a risk, can you tell us your
+outlook for H2 for Brazil and Russia, in particular, and the evolution of your market share in the two regions in H2
+please?
+<A - Carlos Tavares>: What we foresee in the Americas is that we'll continue to grow. We consider that we will have
+still in Brazil a marginal growth and overall in the Americas around 3% growth. Eurasia, we plan for minus 4%,
+possibly Russia at minus 5%, and India at minus 3%.
+I would like to highlight the fact that despite this forecast, we consider that we will continue to grow share in Eurasia,
+in Russia and in India, and we are now in a catch-up mode in the Americas as we don't consider that the minus 0.5% of
+share in the first half is representative of our performance.
+<Q - Thomas Besson>: Okay, very clear. Last question for me, please. On the one-off items, can you be slightly more
+explicit about Iran? Are you starting any activity there? And about the other €200 million-plus impairments, tell us
+whether it's related too please.
+<A - Dominique Thormann>: Yes. I'll take this one, Thomas. Good morning. The provision in Iran, the booking entry
+in Iran is – there are two things happening simultaneously. We are deconsolidating our affiliate there. Just for a
+reminder, we don't have any industrial operations. We don't own any industrial assets. We don't own any distribution
+directly in Iran. It was purely a [indiscernible] (0:36:24) activity.
+So what we are reserving today is basically financial assets, cash, receivables and equity that we had in our books that
+is now going to be valued at zero. So this is a precautionary measure given the new condition in Iran, with the
+executive order that was issued in the beginning of June. So new business is stopped and existing business, which is
+
+Page 8 of 14
+
+Company Name: Renault
+Company Ticker: RNO FP
+Date: 2013-07-26
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 17,489.02
+Current PX: 59.14
+YTD Change($): +18.455
+YTD Change(%): +45.361
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 7.209
+Bloomberg Estimates - Sales
+Current Quarter: N.A.
+Current Year: 41540.000
+
+basically the supply chain, is winding down. So that's the best I can describe the situation in Iran as it stands today.
+<Q - Thomas Besson>: Very clear. And for the other one-off, please?
+<A - Dominique Thormann>: So the other items, we took in the two major buckets, one is, as I mentioned, charges
+that we've taken against the competitiveness agreement in France. That's the bulk of it, but there are also some
+remaining items for the new agreement in Spain. So that's the one that's bucketed under the restructuring charge.
+In the impairment charges, we run, as you know, impairment tests every six months with our auditors, so this goes – we
+go through all of our different holdings, and we go through all the different vehicle lines, mechanical components and
+equipment. So we've made a number of decision relating to some small moving vehicle lines. Part of it is also related to
+the better placed situation, where we had a specific vehicle that was developed and with a quick drop exchange – a
+battery exchange for which we do not see sufficient future volumes to offset the existing assets on our books. They
+were written down in that number. So that's basically what's in – what's behind – there's a host of sundry items, but
+that's the one I would like to call out.
+<Q - Thomas Besson>: Okay, very clear. Thank you very much.
+
+Operator
+We have a next question from Laura Lembke from Morgan Stanley. Please go ahead.
+<Q - Laura I. Lembke>: Yes, good morning. I also have three questions, please. The first one is on your inventory.
+Put it that way, I think we've now seen a few quarters of, let's say, very active inventory management, and I'm just
+wondering if you can give us confidence that the inventory moves that we've seen, and by that the shift between your
+OEM inventory and the dealer inventory in the respective Q2 and Q4, are actually genuine and really a result of the
+increasing international presence. So that's my first question.
+The second one is, can you give us an update on the turnaround efforts at Samsung in Korea where you are right now?
+Is the business already breakeven because I think that's what you were initially guiding for at some point? And then
+maybe the last thing on the FX side, can you just tell us what your expectation is based on today's exchange rates for
+the full-year burden? Thank you.
+<A - Dominique Thormann>: Yes. Hi, Laura. On the FX one, I think you saw in our recent opportunity chart that
+Carlos showed you we're calling FX as – in our risk column. Clearly, we've seen movements in currencies that are
+important to us, in particularly, South America and the Russian ruble. So, right now, what we're seeing, the major
+moves have already occurred, but we see this given our volumes. And the growth of our business, it's a combination of
+our own business growing in a market where the currency is depreciating that we're calling out as a risk. It's a
+combination of both. I think that – we showed that on our slide.
+On the inventory side, yes, first of all, as our non-European business grows, the in-transit shipment and the amount of
+stock that we need, and this is full inventory, so this is what's on our books and what is in the distribution chain, be it
+independent dealers as well as wholly-owned subsidiary dealers, importers. As that business grows, the amount of
+stock that we need and the number of the days that we need of supply increases. That's factor number one.
+The second one is that our inventory is also a factor of our cycle plan. And when we launch vehicles in very high
+volume segments, such as Clio or Captur, for example, the amount of production that we need to supply the launch
+across, for example, Europe in the case of Captur, just fills the pipe. We also have a seasonal factor at the end of June,
+which is, as you know, related to the summer shutdown in August. So those are just some of the factual explanations of
+how inventory moves throughout the period.
+But these units are sold. If they weren't sold, then they wouldn't been in our revenue numbers and they wouldn't be
+showing up in our financial statements, and the units have been – as a matter of fact, there's a considerable destocking
+and sales of vehicles in the current month.
+
+Page 9 of 14
+
+Company Name: Renault
+Company Ticker: RNO FP
+Date: 2013-07-26
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 17,489.02
+Current PX: 59.14
+YTD Change($): +18.455
+YTD Change(%): +45.361
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 7.209
+Bloomberg Estimates - Sales
+Current Quarter: N.A.
+Current Year: 41540.000
+
+Now, are we at the optimal level? I guess there's always room for improvement. I think that what we showed you is a
+sequential improvement from March. We dropped five days. We're two days above where we were at the end of
+December. So, clearly, there's a bit of room for improvement in terms of inventory management, but it's something that
+is a combination of the prediction that you have on the market and your order intake to come, and the cycle plan that
+we have.
+So, yes, there's always room for improvement, but we do have a very tight discipline in how we manage working
+capital in the company. We're very aggressive on receivable management as well, so it's a package of different
+initiatives that we have internally to – that we manage quarter-over-quarter. And I think Carlos will take your first
+question on RSM.
+<A - Carlos Tavares>: Yes. So related to our Korean business, to give you a little bit the perspective, the time
+perspective, last year, on local basis, we were already on a positive free cash flow. This year, free cash flow will be
+positive. The local operating profit will be positive. The consolidated operating profit will be positive next year and the
+marginal profit rate of our sales is now almost fixed. The remaining issue is the overall efficiency of our distribution,
+which is still something that we need to re-engineer to improve the overall efficiency. But I would say that the
+right-sizing in terms of overall fixed cost, the right-sizing of the plant capacity, cost reduction – the variable cost
+reduction and pricing discipline have all been established and, therefore, on local terms, we will be profitable this year,
+but we will need a little bit more time to see a profitable situation back to the black and that will be done by 2014.
+<Q - Laura I. Lembke>: Okay. Thank you very much. It's very clear.
+
+Operator
+Our next question from Philip Watkins from Citi. Please go ahead.
+<Q - Philip R. Watkins>: Hello. Yes, good morning. And thank you for taking my questions. I don't know, it's just a
+follow-up actually on Laura's question, but in terms of the inventory days, I don't know if it's possible to sort of
+articulate what the increase in terms of days might be from the internationalization of the business versus a year ago,
+i.e. has it been structurally at around two to three days to inventories?
+<A - Dominique Thormann>: Yes, look, it's a bit difficult to measure that. Now, there is no magic when we gave –
+we give guidance in terms of the number of days. We've spoken about 60 days several times in the past. You see us
+bouncing around 65 days or 67 days. The international business just needs more volume. The chain – the supply chain
+is just longer. That's just the fact.
+Now, roughly half of what we have on our books is outside of Europe, but it's going to be very different depending on
+how fast you clear customs. There are countries where clearing customs is rather a matter of routine. Others when it's
+much longer. So there isn't a rule of thumb that would really help you in terms of guidance.
+We look – and that's why we show you the consolidated number. I think it's the best guide going forward because if we
+get into spreading it country by country or region by region, then as that transforms on the volume side, it's just going
+to be more confusing than anything else. So the supply chain runs that number, looks at it in a holistic consolidated
+manner.
+<Q - Laura I. Lembke>: Yes, right. And actually in terms of the emerging market crisis, may I ask is there any
+hedging done in any significant way?
+<A - Dominique Thormann>: As a matter of policy, we do not hedge. Now, occasionally, there might be something
+that we would look at in a particularly extreme situations, currencies or countries that get really out of line. But
+typically, we do not.
+<Q - Laura I. Lembke>: Thank you. So might you do that now?
+
+Page 10 of 14
+
+Company Name: Renault
+Company Ticker: RNO FP
+Date: 2013-07-26
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 17,489.02
+Current PX: 59.14
+YTD Change($): +18.455
+YTD Change(%): +45.361
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 7.209
+Bloomberg Estimates - Sales
+Current Quarter: N.A.
+Current Year: 41540.000
+
+<A - Dominique Thormann>: Hedging is a double-edged sword. When it looks like it's the right time to do it, you
+lock in a hedge and the next thing you know the currency has moved against you. And you can look like a fool with
+currency at the wrong rate. Quite honestly, the more – the best hedge against currency fluctuations is having the right
+level of localized supply in the markets that we're selling into. So if you have local content – and I think you know that
+we've made lots of efforts in terms of increasing local content in – across our different regions, which is the best hedge
+against currency.
+I think Carlos and I firmly believe that the financial engineering around currencies that are out of your control isn't
+something that really gets you anywhere. The best thing to do is to have actual, physical balance of revenue and cost in
+the components of your vehicles. I think that's how we approach it.
+<Q - Laura I. Lembke>: That's great. Thank you.
+
+Operator
+A question from Charles Winston from Redburn. Go ahead.
+<Q - Charles A. Winston>: Yes, hi. Morning. Thanks for taking my call. Just a question – a couple of points. Just on
+the one-time items, I was just wondering if you could perhaps give us an update as to what we might expect in the
+second half and also perhaps what the cash one-time items might be in the year? Obviously, we saw a little bit of those
+in the first half relating to Iran. What might the full-year figure be?
+Secondly, can I just confirm that on Iran we've now drawn a line? There's no more costs relating to that, which could
+come through, which is my understanding.
+And then thirdly, just on pricing, obviously, phenomenal results of pricing at the profit level. Would it be fair and right
+for us to extrapolate that into the second half or something of that quantum? Or do you think that perhaps we should
+temper that a little bit given the risks in emerging markets? Thank you.
+<A - Dominique Thormann>: Okay. Let me take the special items one and I'll let Carlos handle the pricing question.
+The reserves that were made, they're non-cash, okay. These provisions are non-cash items. We are booking, we are
+deconsolidating Iran. So what was on our books, and as I said before, we have no industrial assets in Iran.
+So what was on our books was cash that we had already received, but it was in Iran. And since you can't transfer it out
+of Iran or convert it into something else, we're just repudiating that to be worth zero. So that's the deconsolidation
+effect.
+The second thing is that we had receivables. We're also making – we're taking a very prudent approach saying that
+we're booking a reserve against the fact that we're not going to get paid. And the third thing we had in Iran was just the
+equity, the capital that we had in the company that we own jointly with our Iranian partners.
+So as we're deconsolidating all of that, it's being removed from our consolidated accounts. We had to book something
+against that and the €512 million covers all of those items and that's it. So they're non-cash items.
+In terms of the other provisions, once again, the impairment charges and things like that, are non-cash. The reserves
+that we've made for the competitiveness plan in France, for example, those will flow through as cash items as people
+leave and that will show up in – but you'll have the offsetting savings in your labor cost line.
+So these reserves, clearly, the special items are special. I don't expect anything of this magnitude in the second half. But
+once again, as a matter of obligation, we run impairment tests every quarter and every six months, we will make
+adjustments when necessary. Last year, there were very few. And, hopefully, this is going to cover what we had this
+year.
+Now, in the second half, as the competitiveness plan is implemented, we are not charging our books with the full cost
+of the plan because that is not admissible under international accounting standards, so there will be progressively, as the
+
+Page 11 of 14
+
+Company Name: Renault
+Company Ticker: RNO FP
+Date: 2013-07-26
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 17,489.02
+Current PX: 59.14
+YTD Change($): +18.455
+YTD Change(%): +45.361
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 7.209
+Bloomberg Estimates - Sales
+Current Quarter: N.A.
+Current Year: 41540.000
+
+plan is deployed through 2016, items that will be – charges that will be taken against our P&L in the relevant quarters.
+So that one – I know we have some items coming forward, but on the other items, I think that certainly Iran is behind
+us and then the others are of less significance.
+I'll hand over the pricing question to Carlos.
+<A - Carlos Tavares>: Thank you, Dominique. While related to the pricing, as you know, when we talk about net
+pricing, we are talking about the transaction price value adjusted, which means we compare different brands with the
+same amount of equipment, with the same content, and we only look at the final pricing paid by the customer after the
+rebates. And we do this through mystery shopping surveys. So this is what we look at. And I still remember that last
+time, or perhaps two years ago, when we were discussing this matter, and we were saying, well, we need to go after this
+net pricing opportunity, most of our stakeholders were quite skeptical about what we intended to do, which I
+completely understand. It is very normal that this skepticism was there.
+Hence, the fact that we prefer not to forecast anything. We prefer to do the job and then talk about it once it is done.
+What has been done in the last two years is that we have corrected the problem we had against the basket – the basket
+being, for one market, in one segment, we compare the net pricing of our product to the competitors – the basket of
+competitors that represent more than 80% of the volume of that segment, and we make sure that against that basket our
+cars are never cheaper, and they are always between 100% and 3% more expensive in net pricing basis.
+This is what we have done in the last two years all over the world, and I can share with you today that the situation is
+fixed against the basket all over the world, so all of our sales and marketing executives have now implemented the
+strategic pricing policy of the company, which means that we have fixed this issue against the major competitors. Now,
+once we see this, we also see who is the price leader, and we look at the best benchmarks that we can be using as levers
+to continue to progress. And we need to recognize that Volkswagen is one of them.
+So against Volkswagen, what we are seeing is that, against the situation two years ago, which was the fact that we were
+at double-digit cheaper brand, we are now at 5% behind Volkswagen and, of course, because we are making better and
+better cars, because we have fixed the quality of our products, because we have now fixed the appeal of our products
+that you can see through the Renault Captur, the new Clio, as an example, there is no reason why with more appeal and
+a high level of quality, we could not continue to close this gap which is, of course, our intention. But I would prevent
+myself from making any forecasts for two reasons because, first, I would understand your skepticism, so I prefer to talk
+about it when it is done; and secondly, I don't want to make our IR team too nervous about this matter.
+<Q - Charles A. Winston>: Very clear. Thanks a lot.
+<A - Thierry Huon>: Thank you, Carlos, for that. Since we are running out of time, I would appreciate that you limit
+yourself to raise only one question.
+
+Operator
+The next question from Gaëtan Toulemonde from Deutsche Bank. Please go ahead.
+<Q - Gaëtan Toulemonde>: Good morning. This is Gaëtan, Deutsche Bank. So one question, regarding this
+competitiveness plan, can you give us an idea about – I know that the amount of savings will be approximately €500
+million. Can we work with something like €100 million in the second half of this year, €200 million next year, €200
+million the year after? Is it the kind of order of magnitude? Then in term of the provisioning, can you help us a little bit
+to get an idea about what happens second half of this year next year?
+<A - Dominique Thormann>: Okay, Gaëtan. Hi. Good morning. It's Dominique. It's €500 million compared to a
+do-nothing scenario, okay? So you can't just take a starting situation and say, okay, chop €500 million off the operating
+line and get to a number. So it's – because you know it's rather complicated in France. It's a plan that goes through
+2016. So until it's done, you won't get the full impact of that plan.
+
+Page 12 of 14
+
+Company Name: Renault
+Company Ticker: RNO FP
+Date: 2013-07-26
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 17,489.02
+Current PX: 59.14
+YTD Change($): +18.455
+YTD Change(%): +45.361
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 7.209
+Bloomberg Estimates - Sales
+Current Quarter: N.A.
+Current Year: 41540.000
+
+Now, the do-nothing scenario is not a realistic option, right? So you're comparing yourself, you're comparing an end
+situation to something that wouldn't have happened anyway. But if you just do it on paper, the gap would be about
+€500 million. I think we've guided you to tell you that the cost of full implementation over the planned period is going
+to run somewhere around short of €400 million. And we'll be taking this as the employees sign up and are part of the
+plan.
+So you know that under accounting rules, when you have restructuring plans that have to do with people, you cannot
+book these things unless you can identify and that you have certainty of the number of people, the dates and the
+different conditions around individuals. So that's where we stand with the plan, but you will see charges going through.
+We've tried to make it as front-loaded as possible, so that it's major impact will be in 2013 and 2014 and then the tail
+end of the plan in 2015 and early 2016. That's the best I can give you right now.
+<Q - Gaëtan Toulemonde>: And the major saving in H2 this year compared to the €173 million you booked in H1, is
+it something we can compare or not at all?
+<A - Dominique Thormann>: We'll get something flowing through in H2 because in H1, obviously, you're having
+more costs than any impact, obviously, because just time didn't allow that for – to happen, but you will get part of that
+€170 million, whatever number is back into the second half. Yes.
+<Q - Gaëtan Toulemonde>: Okay. Thank you.
+
+Operator
+Our next question from Rabih Freiha from Exane. Please go ahead.
+<Q - Rabih Freiha>: Yes. Good morning. Rabih Freiha from Exane. Some suppliers in the past week this earnings
+season have mentioned that maybe European production accelerated faster than it's supposed to. Do you agree with the
+statement and can you tell us a bit how Renault's European inventories have developed? If I'm not wrong, in April, you
+had mentioned that your inventories went up in five months in Europe. Can you please comment on that? And maybe
+just a confirmation, can you confirm the flat working capital swing for this year please. Thank you.
+<A - Dominique Thormann>: Just one comment for Europe. First, what you need to look at is the fact that we have
+very successful cars that have been launched recently. I would like to highlight the new Clio and the Captur. Just to
+give you an example, the Captur was such a high success in the mind of our dealers that we decided to put a second
+shift in Valladolid even before the start of sales.
+So, of course, we have to fill the pipes and meet the high expectations of our sales people. On the same time, we also
+have a high demand on the new Logan and the new Sandero. So all of this contributed to give our sales people the
+appropriate resources that they need to make the appropriate sales. And as you have seen, it has been very important
+that we sell the cars that are being demanded by the market or requested by the market because this is the situation
+where you can trigger the appropriate pricing discipline.
+If the market is pulling the cars, you don't have to discount. And of course it overall improves the business in terms of
+efficiency, marginal profit rates and in terms of total volume, total amount of profit. So I would say that there is nothing
+special about the European inventories except for the fact that we have filled the pipes with the successful cars that we
+have launched in the last six months.
+<Q - Rabih Freiha>: Okay, thanks. And on working capital?
+<A - Dominique Thormann>: Yes, working capital, Rabih, is – look, I don't have any better guidance to give you than
+what we told you initially. That's the basic – the plan is for that to be as neutral an amount as possible.
+<Q - Rabih Freiha>: Great. Thank you very much.
+
+Page 13 of 14
+
+Company Name: Renault
+Company Ticker: RNO FP
+Date: 2013-07-26
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 17,489.02
+Current PX: 59.14
+YTD Change($): +18.455
+YTD Change(%): +45.361
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 7.209
+Bloomberg Estimates - Sales
+Current Quarter: N.A.
+Current Year: 41540.000
+
+Operator
+Our next question from Horst Schneider from HSBC. Please go ahead.
+<Q - Horst Schneider>: Yes, good morning. Horst here from HSBC. Not many questions are left. I only want to
+clarify on volumes. Do you expect your volumes in the second half to be higher than in the first half? And maybe I
+have missed it, with regard to Europe, outlook is still bleak, but can we expect maybe a positive market growth already
+in Q3? In my view, already June was not that bad if we adjusted for the number of selling days in a few markets.
+And then finally, for the guidance 2013, you now believe that the guidance is realistic, ambitious or rather
+conservative? Thank you.
+<A - Carlos Tavares>: Let me answer the first part and I'll let Dominique answer the tough question.
+For the first part, what we foresee is that the volumes in H2 will be higher than in H1. As you saw, we were at minus
+1.9% and we are saying that we'll be overall higher for 2013 compared to 2012. So as a consequence, H2 should be
+higher than H1. That's something that we think will happen and is in the plan.
+The second point regarding Europe is that what we expect for Europe is that the market share will grow. The TIV – as
+you saw, the TIV forecast is minus 5%. It was minus 3% at the beginning of the year. It's now minus 5% and minus
+80% in France. But thanks to the new products we have, we expect the market share to grow and this will, of course,
+contribute to reduce the impact of the European TIV decrease which combined with the overseas sales growth should
+lead us to have a higher volume in 2013 compared to 2012.
+<A - Dominique Thormann>: Yes. And, Horst, on the – how to qualify our guidance, I think that the best that I can
+say is what I said in my introductory comments, is that we're confirming guidance, provided no further material
+deterioration in market conditions. And I would like to stay with that statement and not qualify it as being optimistic or
+pessimistic or any other way than what I said.
+<Q - Rabih Freiha>: Okay. Thank you.
+
+Thierry Huon
+Okay. Thank you, Dominique. Thank you, Carlos. So I guess that we are running out of time, so we're going to leave
+you. But I, myself, will be available also full day if you have any further questions. Have a good day. Thank you.
+
+Operator
+Ladies and gentlemen, this concludes the conference call. Thank you all very much for attending. You may now
+disconnect.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2013, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.
+
+Page 14 of 14
+
+

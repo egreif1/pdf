@@ -1,0 +1,833 @@
+Company Name: Daimler
+Company Ticker: DAI GR
+Date: 2013-07-24
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 56,970.79
+Current PX: 53.30
+YTD Change($): +11.98
+YTD Change(%): +28.993
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 4.758
+Bloomberg Estimates - Sales
+Current Quarter: 29134.000
+Current Year: 117142.273
+
+Q2 2013 Earnings Call
+Company Participants
+•
+•
+•
+•
+
+Michael Mühlbayer
+Dieter Zetsche
+Bodo K. Uebber
+Wolfgang Bernhard
+
+Other Participants
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Horst Schneider
+Fraser E. Hill
+José Asumendi
+Daniel Schwarz
+Charles A. Winston
+Philippe J. Houchois
+Jochen Gehrke
+Stephen M. Reitman
+Frank Biller
+Michael J. Tyndall
+Philip R. Watkins
+
+MANAGEMENT DISCUSSION SECTION
+Operator
+Welcome to the Global Conference Call of Daimler. At our customer's request, this conference will be recorded. The
+replay of the conference call will also be available as an on-demand audio webcast in the Investor Relations section of
+the Daimler website. The short introduction will be directly followed by Q&A session. [Operator Instructions]
+I would like to remind you that this teleconference is governed by the Safe Harbor wording that you find in our
+published results documents. Please note that our presentations contain forward-looking statements that reflect
+management's current views with respect to future events. These forward-looking statements clan be identified by
+expressions such as assume, anticipate, believe, estimate, expect, intend, may, plan, project, and should. Such
+statements are subject to many risks and uncertainties, examples of which are set out in the Safe Harbor wording in our
+disclosure documents. If the assumptions underlying any of these statements prove incorrect, then actual results may be
+materially different from those expressed or implied by such statements. Forward-looking statements speak only to the
+date on which they are made.
+May I now hand you over to Dr. Michael Mühlbayer, Head of Daimler Investor Relations and Treasury. Thank you
+very much.
+
+Michael Mühlbayer
+Good afternoon. This is Michael Mühlbayer speaking. On behalf of Daimler, I would like to welcome you on both the
+telephone and the Internet to our half year results conference call. We are happy to have with us today the Chairman of
+
+Page 1 of 13
+
+Company Name: Daimler
+Company Ticker: DAI GR
+Date: 2013-07-24
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 56,970.79
+Current PX: 53.30
+YTD Change($): +11.98
+YTD Change(%): +28.993
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 4.758
+Bloomberg Estimates - Sales
+Current Quarter: 29134.000
+Current Year: 117142.273
+
+the Board of Management and Head of Mercedes-Benz Cars, Dr. Dieter Zetsche; our CFO, Bodo Uebber; and the Head
+of Daimler Trucks, Dr. Wolfgang Bernhard.
+In order to give you maximum time for your questions, Dr. Zetsche will begin with a short introduction directly
+followed by Q&A. Now I would like to hand over to Dr. Zetsche.
+
+Dieter Zetsche
+Thank you, Michael, and good afternoon from me too. We already informed you in large part 12 days ago, in the
+second quarter group EBIT as well as EBIT from ongoing business were significantly better than the consensus, yet
+largely in line with our internal expectations. So today I'd like to briefly complete the picture with additional details on
+our second quarter performance. Then I'll provide an outlook of our expectations for the second half of 2013.
+Let's start with the key figures for the second quarter. Our Automotive divisions increased their total unit sales by 6%
+to 606,000 vehicles in the second quarter. In Mercedes-Benz Cars, we had our best sales quarter ever, selling 405,000
+units. At Daimler Trucks, our sales were up 1% compared to the second quarter of last year, largely driven by the
+recovery in Brazil and the ramp-up in India. Plus, in many of our key markets, we have gained market share, be it cars
+or commercial vehicles. Our revenue for the period reached €29.7 billion, 3% more than the second quarter of last year.
+Adjusted for exchange rate effects, revenue even increased by 5%.
+As announced earlier, we achieved group EBIT of €5.2 billion, very much supported by the remeasurement and the sale
+of our remaining shares in EADS. This special item contributed €3.2 billion to our second quarter EBIT. Our EBIT
+from ongoing business came to €2.1 billion.
+Net profit was €4.6 billion in the second quarter. Excluding the EADS effect, Daimler reported a net profit of €1.4
+billion, €1.25 per share. Industrial free cash flow in the second quarter amounted to €3.5 billion. Ongoing industrial
+business excluding the proceeds of EADS transaction and other M&A contributed €1.4 billion. Net liquidity stood at
+€11.3 billion as of June this year, slightly below the level we had at the end of 2012.
+So much for the second quarter. Now, what do we expect for the second half of 2013. Looking ahead, we see three key
+drivers further improving our earnings from ongoing business compared to the first half of 2013. These are: Slightly
+recovering markets; the renewal of our product portfolio; and increasing benefits from our efficiency programs.
+Let me give you some more details on these issues for our two largest divisions, Passenger Cars and Trucks
+respectively. First, markets. Obviously this is an external factor we can't control. Our current expectation is to see some
+improvement in the global market environment in the second half of this year. In passenger cars, we still expect global
+growth for the total year of 2% to 4%. The main drivers of this growth will be the S in China. In Western Europe, sales
+should finally stabilize and the market should slowly start to recover in the second half of this year.
+The same goes for truck markets. In Western Europe and in NAFTA, we expect the current decline to ease. Brazil is
+recovering after a serious downswing in 2012. In Japan, government incentives have had only a limited impact on the
+truck market so far.
+The next two factors, products and efficiency programs, are in our hands, and we are diligently working on their full
+implementation. Let's start with our product portfolio. In Mercedes-Benz Cars, our product offensive is gaining
+traction. We continue the regional roll-out of our new products at full speeds during the second half of 2013. That
+includes the market launch of the new E-Class long version in China in September, which will be decisive in improving
+our sales and pricing there; the CLA hitting our U.S. dealer showrooms in September as a groundbreaking entry model
+in that key market.
+Most importantly, the reception of our all new S-Class continues to be very encouraging. Even before market
+introduction, we already had more than 20,000 orders on our books. Hence, we expect significant growth in the luxury
+segment for the second half of 2013. Market launch in Europe was last weekend; the S in China will follow in autumn.
+We should see the full sales contribution from the S-Class in 2014.
+
+Page 2 of 13
+
+Company Name: Daimler
+Company Ticker: DAI GR
+Date: 2013-07-24
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 56,970.79
+Current PX: 53.30
+YTD Change($): +11.98
+YTD Change(%): +28.993
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 4.758
+Bloomberg Estimates - Sales
+Current Quarter: 29134.000
+Current Year: 117142.273
+
+Our offensive in the compact segment continues as well. In September, we'll introduce the new GLA series model at
+the International Motor Show in Frankfurt. To satisfy the high global demand for our new cars as quickly as possible,
+we'll have no summer breaks at most of our Mercedes-Benz plants.
+To sum up prospects for Mercedes-Benz Cars, we plan to further increase our total unit sales and to outpace overall
+market growth in 2013. From today's perspective, we assume that unit sales in the second half of this year will be above
+the level of the first half. China will contribute to that. Thanks to the roll out of our new products, the increasing
+benefits from the retail network expansion, and the integrated sales company, we expect sales of passenger cars in
+China to grow further during the second half of 2013.
+Now, let's turn to the commercial vehicle side of our business. At Daimler Trucks, our product offensive is now largely
+complete. With Actros, Antos, Arocs, and Atego, we have renewed our entire European portfolio for medium and
+heavy-duty trucks. In short, this is our strongest fleet ever. All trucks come with Euro VI technology and with
+best-in-class fuel economy. S book-to-bill ratio of 120% in Western Europe reflects the strength of this product
+portfolio.
+Almost 50% of the orders [ph] were (8:02) new Actros and Euro VI. Customers understand the added value of the total
+cost of ownership equation of Euro VI technology and are willing to pay a premium for it. In order to satisfy demand,
+we are adding addition production shifts on Saturdays in Wörth for the second half of this year.
+We also have best-in-class truck products in other regions. NAFTA, our new Cascadia Evolution sets another
+benchmark for fuel efficiency; consumes 7% less compared to its predecessor, which itself was a very efficient truck.
+Our customers appreciate that. As of today, we have roughly 15,000 firm orders on our books.
+In India our new BharatBenz fleet roll-out is well under way. Despite a difficult market environment and with an all
+new plant, we took fourth place in India's ranking of new truck registrations in the second quarter. We've already sold
+more than 3,100 trucks and have another 3,200 orders booked.
+We'll also exploit additional growth opportunities in new and established markets. For this purpose, Daimler Trucks
+has launched the new integrated Asia business model. The model is designed to realize as much growth and synergy
+potential as possible in procurement, production, sales, and our price range. To that end, we started manufacturing Fuso
+trucks in our plant in Chennai, India. These trucks at this time tend for export markets in Asia and Africa. First batch
+was delivered to customers in Sri Lanka at the end of June.
+With an overall book-to-bill ratio for Daimler Trucks of 102% in the second quarter we are confident to slightly
+increase unit sales for the current year. While improving our top line with new products, we continue to take strong
+actions for bottom line improvements with our efficiency programs. These programs will ensure that growth from new
+products will turn into higher profitability. As you know, we have programs in place across all our divisions.
+At passenger cars, Fit For Leadership aims at cost reductions of €2 billion by the end of 2014. At trucks, we plan to
+achieve benefits of €1.6 billion by the end of 2014, with Daimler Trucks #1. Within each of these two programs, we
+aim to reach 30% of the total amount by the end of 2013. So far through June, 30% of this year's planned cost savings
+have been booked in each division. With expected acceleration in the second half of 2013, we are confident we will
+achieve the benefits targeted for this year.
+So what does all this mean for our expected 2013 earnings? The current EBIT forecast for the Daimler Group and its
+divisions remain unchanged. On the basis of our key market forecasts, the continued roll-out of our new products, and
+the increasing effect of our efficiency programs, we expect our earnings to improve significantly in the second half of
+2013 compared with the first half. We target maintaining a stable dividend supported by the proceeds from the EADS
+transaction and earnings from ongoing business. In the coming years we will continue to target a payout ratio of 40% of
+net profit attributable to shareholders.
+In closing, let me outline our expectations for the years beyond 2013. For 2014, we expect continued improvement in
+EBIT in all of our automotive divisions and for the group as a whole. We expect a stable development of revenue and
+earnings for Daimler Financial Services. What are the main reasons for this? First and foremost, we'll fully benefit from
+
+Page 3 of 13
+
+Company Name: Daimler
+Company Ticker: DAI GR
+Date: 2013-07-24
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 56,970.79
+Current PX: 53.30
+YTD Change($): +11.98
+YTD Change(%): +28.993
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 4.758
+Bloomberg Estimates - Sales
+Current Quarter: 29134.000
+Current Year: 117142.273
+
+a younger, stronger, and expanded model lineup at Mercedes-Benz Cars as well as at Daimler Trucks. Then we'll reap
+rising benefits from our efficiency programs. Plus, our business model in China will be further improved to benefit
+more strongly from this market's large potential.
+And now, we'll be happy to take your questions. Thank you.
+
+Michael Mühlbayer
+Thank you, Dr. Zetsche. Ladies and gentlemen, you may ask your questions now. I will identify the questioner by
+name, but please also introduce yourself with your name and the name of your organization. Two practical points;
+please, firstly, avoid using mobile phones; and secondly, please ask your question in English. Before we start, the
+operator will explain the procedure.
+
+Q&A
+Operator
+[Operator Instructions]
+<A - Michael Mühlbayer>: So, we take the first question from Horst Schneider.
+<Q - Horst Schneider>: Yes, hello. It's Horst Schneider from HSBC. I've got three questions. The first one is
+regarding your free cash flow outlook, especially for H2 2013. After we have seen in Q2 this good cash flow results,
+even if you strip out the EADS disposal proceed, I would like to know then why are you relatively cautious on the cash
+flow outlook then for the second half?
+Then the second question that I have is, you say that the EBIT will increase in H2 versus H1. I would be glad to get
+some more details then on the quarterly pattern. So what should we expect that Q3 is already above Q2, or are we
+expecting a normal, seasonally weaker Q3 and then a very strong fourth quarter?
+And the last question that I have is on currencies. I think in the last two conference calls you reiterated your guidance
+of minus €200 million currency effect in 2013. After H1, you have realized a gain of €150 million. So do you stick to
+that negative currency impact forecast or have you changed that by now? Thank you.
+<A - Bodo K. Uebber>: Schneider, thank you for your questions. So for the free cash flow question, we have not
+changed our guidance, which we have released end of first quarter. So we are remaining our free cash flow guidance
+with €1 billion to €2 billion for this year. That includes the M&A activities, which are not only EADS on the positive
+side, but also we have some investment in the second half into BAIC, as you know. We have mentioned that I do think
+a couple of months ago is around €600 million where we are investing in the second half.
+Why is the second half somewhat lower in free cash flow? As I said, the investment on the one hand but also our
+CapEx development is somewhat second – light in the second half, almost 60% on the second half, 40% in the first
+half. And on the other hand, we have also some more tax payments in the second half than in the first half. So
+everything is unchanged and we stick to our cash flow guidance from the first quarter.
+One element I have also to tell you, the working capital development in accounts payables is positively in the first half,
+and of course it is pretty volatile and will bounce back somewhat in the second half. So with that explanation, I do think
+you see that the cash flow guidance of first quarter is stable.
+Your second question to earnings development, we have given a guidance, a clear guidance, I do think, for all the
+divisions. We have a remaining guidance, which means in the second half we are better than in the first half. So let us
+stick to that message. We don't want to discuss now quarterly developments of returns. The only thing is that the sales
+development in the third quarter will be less than in the first – in the fourth quarter in cars. In trucks it will be steadily
+somewhat increasing over the quarter. So with that guidance, I do think I have told you enough.
+
+Page 4 of 13
+
+Company Name: Daimler
+Company Ticker: DAI GR
+Date: 2013-07-24
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 56,970.79
+Current PX: 53.30
+YTD Change($): +11.98
+YTD Change(%): +28.993
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 4.758
+Bloomberg Estimates - Sales
+Current Quarter: 29134.000
+Current Year: 117142.273
+
+For the currency outlook, on the basis of $1.30, we will see more or less no change in currency for the total year. So
+that has changed a bit to the positive. We had some favorable developments. Even when the dollar is underneath $1.30
+we try to do some more hedging. Having said this, we are 90% hedged, and therefore I don't expect much fluctuation. If
+we have fluctuations, for example, with the yen, the Japanese yen, which is bouncing back and forth, so to say, and
+there we have also the currency [ph] effect in (16:24) trucks, which is mainly related to the Japanese yen, which you
+see also in the revenue development, which was negative affected by the Japanese yen and trucks. I do think I covered
+all your questions.
+<Q - Horst Schneider>: Okay. Just two follow-ups, just that I got it right for Mercedes cars, you meant that the sales
+will be probably in Q3 below Q2?
+<A - Bodo K. Uebber>: Yes. And in Q4 higher.
+<Q - Horst Schneider>: All right. Okay. And with regard to currencies, is currency development also the reason that
+the revenues per unit has come down at Cars but also at Trucks? And is that a development that is likely to continue?
+<A - Bodo K. Uebber>: On the one hand, we have mix development, of course, compared to last year, but also it's a
+part-by-parts business to China which has effect on the revenue per unit.
+<Q - Horst Schneider>: All right.
+<A - Dieter Zetsche>: On the truck side, when you adjust by the forex, you basically are flat at revenue per unit.
+<Q - Horst Schneider>: Okay. Good. Thank you.
+<A - Bodo K. Uebber>: Welcome.
+<A - Michael Mühlbayer>: Okay. Next in line is Fraser Hill.
+<Q - Fraser E. Hill>: Hi. Good afternoon. It's Fraser Hill from Bank of America. Just wanted to return to the free cash
+flow and also the CapEx and kind of expand your commentary into 2014, if you can help us with that. Obviously, you
+had a CapEx to sales to ratio that was low, as you point out, and will be second half weighted. I think we're down
+towards 6% for the second quarter. What's going to be a sustainable level of capital expenditures as a percentage of
+sales this year and as we look into 2014 and 2015? And how do you think that might need to trend? Certainly, you're
+spending about 7% of sales, where some of your peer group is spending closer to 10%. So do you feel that at a certain
+point this ratio will have to increase or not?
+Moving on from that point and the BAIC investment at €600 million this year, can you confirm that that will be a
+one-off investment this year and that there will be no further investments into 2014 and 2015 as well?
+And then, sorry, just one final question on the free cash flow. Within the statement in the changes in other operating
+assets and liabilities, there was a €500 million positive effect in the second quarter. Can you just tell us what was going
+on with that and also give us some help in forecasting that line going forward? Thank you.
+<A - Dieter Zetsche>: Thank you for your questions. As far as free cash flow is concerned, looking forward to the
+years to come and CapEx obviously influencing that. On the Cars side, we see kind of a constant level in absolute terms
+on the CapEx all together and with revenues growing, obviously, the ratios will improve, which means we'll decline.
+On the Trucks side, we see an absolute reduction of investments after this huge renewal, which has gone basically
+through all the truck lines and therefore we'll see both an absolute reduction plus a higher percentage reductions,
+because there as well we expect revenues to grow. So our statement looking forward that, on the one hand, we want to
+have a payout ratio of about 40% of our earnings in dividends and on the other hand that we want to at least earn our
+dividend from our cash flow from operations. The free cash flow stays absolutely valid.
+As far as BAIC is concerned, we announced the overall package, which was negotiated between BAIC and us and the
+other shareholders in BAIC and we are now coming most likely to execution of that plan. And this is this one-time
+payment into BAIC in order to achieve 12% of the capital, and there's no plan of continuation of this guidance, so it
+
+Page 5 of 13
+
+Company Name: Daimler
+Company Ticker: DAI GR
+Date: 2013-07-24
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 56,970.79
+Current PX: 53.30
+YTD Change($): +11.98
+YTD Change(%): +28.993
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 4.758
+Bloomberg Estimates - Sales
+Current Quarter: 29134.000
+Current Year: 117142.273
+
+should be one-off in 2013 and nothing similar in 2014. The last point, Bodo you want to address the second quarter
+effect?
+<Q - Fraser E. Hill>: Yeah. Just on your cash from operating activities, I think within the changes included in your
+working capital, you've got in your statement in other operating assets and liabilities line and it was about €500 million
+positive in Q2. I just wasn't entirely sure what was driving that and also how to think about that line going forward,
+because it's been a big variance in certain quarters.
+<A - Dieter Zetsche>: Yeah. I mean – okay.
+<A - Bodo K. Uebber>: To your question, there's – mainly there is service – normal services contracts in Trucks,
+which where we have contracts which are – which we have to account for EBIT but not for cash flows. It's not a cash
+flow item, which you see here. It's just a topic that we have to – you know that the work is not yet done and will be
+done in quarters, so that is between quarters something we have to do in service contracts. But it is normal course of
+business with regard to service contracts, so it is not a cash flow impact. And that was the part I have answered. Yes.
+Okay. Thank you.
+<A - Michael Mühlbayer>: So next in line is José Asumendi. José?
+<Q - José Asumendi>: Yes. Hello. Can you hear me?
+<A - Michael Mühlbayer>: Yes.
+<Q - José Asumendi>: So two questions on Trucks, please. How do you see the book-to-bill progressing in Europe in
+the third quarter? And how should we think about production sequentially in Q3 versus Q2? And if you could give us
+some details behind Europe and Brazil and taking some summer shutdowns over there? Thank you.
+<A - Wolfgang Bernhard>: The order intake for – in the second quarter it was 19% higher than previous year, so our
+book-to-bill ratio was positive. In Europe, we had in the first half year in the marketplace a minus 10% roughly. We
+were able to hold our market share. We're a little bit higher than the year before. We think that for the end of the year,
+we'll see a market that is around minus 5%. That means if we want to keep up we have to continue that slight uptick
+throughout the rest of the year, and we have basically booked our factories in Europe until, I would say, October,
+November timeframe. So we have now a number of extra shifts on Saturdays that we need in order to satisfy the
+demand that is coming from the market side.
+In Latin America, we've seen in the first half a 4% growth. We also think that here the growth for the whole year will
+be all the way up to 10%. That also means that there's a considerable catch-up to do in order to come to that all the way
+up to 10%, so we also see and hope for some increased market. In Latin America we were not able to hold market
+share. We slightly lost 2% of market share, but the market in whole compensated for that.
+So all in all, we think that in the rest of the year we'll have slight growth. We will provide for that and it will be driven
+primarily by Western Europe and Latin America and to some extent by NAFTA. So far we are able to keep up with the
+market – what the market is giving us, and as I say, we will come up to our guidance from the lower end, so we have a
+considerable way in order to reach where we want to be by end of the year.
+<Q - José Asumendi>: Brilliant. Thank you.
+<A - Michael Mühlbayer>: So next in line is Daniel Schwarz.
+<Q - Daniel Schwarz>: Yeah, I have also two questions for Mr. Bernhard. The significant acceleration you're
+expecting in Brazil in the second half, is that mainly driven by pre-buy effects? Or do your customers anticipate that
+incentives will be renewed in 2014? And what do you think about market development in 2014? And the second
+question would be, after the renewal of all major products and the implementation of Truck Number One, what do you
+think will be your main focus of your work in the next years? And did you identify parts of the truck group that you
+think that could be divested? Or on the other side, parts where you think acquisitions could make sense?
+
+Page 6 of 13
+
+Company Name: Daimler
+Company Ticker: DAI GR
+Date: 2013-07-24
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 56,970.79
+Current PX: 53.30
+YTD Change($): +11.98
+YTD Change(%): +28.993
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 4.758
+Bloomberg Estimates - Sales
+Current Quarter: 29134.000
+Current Year: 117142.273
+
+<A - Wolfgang Bernhard>: Okay, thanks for the question. Our first question was with respect to Euro VI and Euro V
+pre-buys. So far we see that, in the market, in the first half we have seen 50-50 distribution between Euro IV, Euro V.
+It's picking up now towards Euro VI because our Euro VI trucks are much more fuel efficient, so some of those
+customers see already their economical advantage of taking a Euro VI truck. We don't see considerable Euro V
+pre-buy. Only some of those logistics companies that work in distribution tasks, Euro IV is – Euro V is still being in
+demand.
+<Q - Daniel Schwarz>: Sorry. My first question was more on the Brazilian market, whether you see pre-buy effects in
+Brazil because customers...
+<A - Wolfgang Bernhard>: No. We can cut that short. There's nothing like this happening.
+<Q - Daniel Schwarz>: Oh, okay.
+<A - Wolfgang Bernhard>: Second question was with respect to – that was – I think you asked about M&A activities.
+Right now, we have – we're very busy of working on our operational tasks. There's a lot of work to do and we are not in
+any way busy and thinking about M&A activities. This is not something that is in the top of our mind right now. We
+have to continue to launch our products in Europe, we have to work in Latin America, we have to make sure that we
+continue to gain market share in NAFTA and we have huge launches that we have to come up with in India. So right
+now, this is what is on the top of our minds. It's what we call Daimler Truck Number One, being in the number one
+position and the main task is basically to get our cost positions right to – and to top out on our market potential.
+<Q - Daniel Schwarz>: Okay. Okay. Thank you.
+<A - Michael Mühlbayer>: So next in line, we have Charles Winston.
+<Q - Charles A. Winston>: Yeah. Hi. Charles Winston from Redburn Partners. Thanks for taking my questions. Just
+two or three for me. Firstly, just if you – the new E-Class or facelift E-Class has been in the market for two, three
+months now. I was just wondering if you could give us a feel for what the achieved pricing on the new model is like
+relative to the outgoing model? And sort of perhaps give us a feel as to the quantum of the pricing changes that we
+could see there?
+Secondly, just looking at the cost side in Mercedes. We saw I think it was €528 million cost headwinds in the first
+quarter and €554 million in the second quarter, you're talking about roughly €200 million of Fit for Leadership savings
+in the first half, and I guess those are probably 2Q biased, that suggests that the cost inflation, which I guess includes
+content, has sort of got probably quite materially worse in second quarter versus first quarter. I was wondering, is that
+interpretation right? And if it is, is this a content issue? And if it isn't a content issue, perhaps you could flush out what
+was going on there?
+And sorry, very finally, I just wanted to follow-up on Fraser's question actually, in terms of the other operating assets
+and liabilities, that €500 million. You explained it by talking about service contracts in trucks where you account for
+EBIT with those no-cash flows. The issue is – this is a positive. In other words, when we're reconciling from profits to
+cash, it was a positive, suggesting that there was a non-cash cost in the P&L as opposed to a non-cash profit. And I was
+just wondering if I've understood it right that the explanation of service contracts doesn't explain the direction of the
+impact in terms of the cash flow. Thank you.
+<A - Dieter Zetsche>: Let's start with your question regarding the new E-Class. Sorry – first of all, as you know, the
+introduction has taken a place in Europe basically exclusively. So and, yes, it's happening now. In China, it will start in
+September, so we have some delay there to see effects. But based on Europe and the early signs in other markets, we
+are very satisfied with both with our order intake and with our pricing, so we have a positive development on incentives
+with the face-lifted E-Class, and once again, the demand for the new product is very encouraging.
+As far as costs are concerned, I would like to focus on the second quarter if that's fine with you. We're talking about
+roughly €500 million. About half of that is increased content related to new product and capacity expenditures all
+around the technical part, the product, the plants. The other half is basically costs which are not ongoing – more than
+half of that non-periodic costs in 2012, which has a base effect as these positives of last year do not – could not be
+
+Page 7 of 13
+
+Company Name: Daimler
+Company Ticker: DAI GR
+Date: 2013-07-24
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 56,970.79
+Current PX: 53.30
+YTD Change($): +11.98
+YTD Change(%): +28.993
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 4.758
+Bloomberg Estimates - Sales
+Current Quarter: 29134.000
+Current Year: 117142.273
+
+repeated. They have a negative impact on this comparison. And the other half is similar in 2013, where we have, again,
+aperiodic cost effects in the second quarter in 2013. So about half of that has substance and half is aperiodic. Bodo, you
+would take on the third part regarding the €500 million?
+<A - Bodo K. Uebber>: The €500 million. So the cost position is unchanged in Q2 2013. The main part of the cost
+changes that is more than 50% is related to high expenses amongst others for new technologies as we already said, new
+products and additional capacities.
+<A - Dieter Zetsche>: [indiscernible] (32:24)
+<A - Bodo K. Uebber>: Oh, the third one. Sorry.
+<A - Dieter Zetsche>: Third one, yes.
+<A - Bodo K. Uebber>: No, no. Sorry, I was a bit confused there. [indiscernible] (32:30) Sorry, I just wanted to clarify
+the service contract piece, therefore I had not the attention on what you said.
+<A - Dieter Zetsche>: Fine.
+<A - Bodo K. Uebber>: Sorry. So I clarify the service contracts. Service contracts are here for trucks and passenger
+cars in this line item. Sorry to say so, it's both. And these are expenses which are accrued for over the lifetime of the
+contract, and therefore it has an EBIT impact in this quarter, but it has not yet a cash flow impact. So that is a precise
+impact, sorry. We had to look into the book, so to say, and talk to the accountant and therefore he has a precise answer.
+Thank you.
+<Q - Charles A. Winston>: Thank you, guys. So very quickly just to follow-up, the aperiodic costs and relating to my
+second question, the half of those which as you said related to a comp impact really from 2Q of 2012, is there any more
+of that to come? In other words was that – is there any more in 3Q and 4Q? Or was that just a one-time issue?
+<A - Bodo K. Uebber>: So we think second half impact will be by far lower than the first half impact.
+<Q - Charles A. Winston>: Thank you.
+<A - Michael Mühlbayer>: Okay. Next in line, we take the question from Philippe Houchois.
+<Q - Philippe J. Houchois>: Yes. Good afternoon. I have a couple of questions please. The first one is on this dispute
+that you're involved in with the EU on air conditioning coolants. How seriously should we take that issue? What is the
+risk that your sales in France are further blocked for the rest of the year? Are there other countries coming through?
+And how difficult or really what's the hurdles, not a lot of car makers have agreed that this new product from
+Honeywell and DuPont is acceptable. You seem to take a different view. How resistant are you going to be? And how
+difficult is it for you to change course and possibly dump that product? That was my first question.
+The second one is you talked to us in the end of Q1 about your interest in potentially disintegrating some of your
+dealerships and freeing up some of the cash there. I believe you sold a few dealers in France. Can you confirm that?
+And can you also tell us where you stand on this project? Thank you.
+<A - Dieter Zetsche>: Thank you for your questions. As far as the first question is concerned, our position is pretty
+clear. We got the type approval for the products in question, which is A and B-Class and SL by the KBA with their
+former coolant. It's called R134; this doesn't matter, but that's what we got. And to our understanding, it's just a pure
+technicality. This type approval is recognized in all European countries. It has been done except for France, and we still
+do not have a clear explanation of why that is so, and we are in intense discussions between Brussels and France and
+Germany in order to clarify and rectify the situation as fast as possible.
+So it's difficult to answer your question because we don't have really a good reasoning why we are facing the situation
+in France the way we do. And therefore, it's not that easy to tell you about the solution. But we are, of course – we are
+in constructive talks, and we are optimistic that there will be a solution in a foreseeable timeframe. Just to make it clear,
+but that's what you understood anyway, that we're talking about these specific vehicles in France, not about our total
+
+Page 8 of 13
+
+Company Name: Daimler
+Company Ticker: DAI GR
+Date: 2013-07-24
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 56,970.79
+Current PX: 53.30
+YTD Change($): +11.98
+YTD Change(%): +28.993
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 4.758
+Bloomberg Estimates - Sales
+Current Quarter: 29134.000
+Current Year: 117142.273
+
+sales in France, but that's of course already significant.
+The second question was about own retail. It's true that in France we sold one owned retail outlet to an independent
+investor. We talked about before the broader scope studies we are entertaining on our own retail business altogether,
+the performance, the financial feasibility and so on. These studies are ongoing discussions about potential actions to be
+taken, as well, but there's nothing which would be as concrete at that point of time that we could make an
+announcement for that reason.
+<Q - Philippe J. Houchois>: Okay. Thank you.
+<A - Dieter Zetsche>: Thank you.
+<A - Michael Mühlbayer>: Jochen Gehrke, you are next.
+<Q - Jochen Gehrke>: Yes, good afternoon. Just two topics if I may. First of all, in China, can you just help us
+understand where we are now with regards to your dealer openings? I think you had very significant plans for this year.
+How much is there more to come in the second half and genuinely speaking, where do you stand against your plans
+now by the second quarter after what I understood to be a rather disappointing first?
+And secondly for Mr. Bernhard, in the Trucks, can you help us understand where we currently stand with regional
+profitability in the various areas? And more broadly speaking, after you've looked at this business now more deep with
+one quarter being the CEO, what part of the business is at the moment in deepest need of improvements to finally reach
+the 8% on a through the cycle basis? I mean, I understand that markets have always played a role, but I think it's
+equally fair to say that Trucks is now running several years behind its own profitability ambitions. And how long,
+markets taken aside, do you think it will take for Daimler Trucks to finally have the structure in place that we are going
+to see the 8%-plus/minus a quarter that you guys have historically defined? Thank you.
+<A - Dieter Zetsche>: To your first question, at that point of time, we have 279 dealerships that are active in China,
+which is about 20 more than by the end of last year. Our plan for this year was to open altogether about 75 dealerships.
+And this plan is – and continues to be valid. About 45% of the 75 new dealers we want to see in Tier 3 in smaller cities
+which was one area of concern, as we explained before that we did not have enough dealers there, to your first
+question.
+<A - Wolfgang Bernhard>: To your second question pertaining the Truck business, we do not disclose any regional
+results. We haven't done that in the past, and we will not do that in the future. I give you a little of overview what is
+going on. Obviously in Europe we're well situated. We just invested heavily into a new technology, and it's paying off
+in terms of market share and in us having a firm grip on the market side. So Europe seems to be doing okay. We are
+enjoying also a NAFTA growing market share with good profitability. So we also are okay in NAFTA.
+However, as I mentioned before, situation is not that bright in Brazil. We are losing market share in Brazil. We're not
+taking advantage of the growth of the market as it's moving on. So we have something to – a lot of things to do there.
+And with Asia basically, we have a big job in terms of growing the top line of the business. So it's a very differentiated
+picture. Obviously, we're working hard in every region. It's not that anybody can fall back and lean back and relax.
+Everybody has to work hard to improve the performance. We always said that we are going to step-by-step improve our
+performance towards an 8%.
+As you know, truck markets in particular are very much dependent on – are very volatile and the performance of the
+companies are very much depending on those markets. So it is very difficult for us to forecast at what point of time we
+will reach that 8%, but you can be sure that all our efforts are being focused on that target and we will reach that target
+step-by-step as we move on, and as the markets allow to do so.
+<Q - Jochen Gehrke>: Okay. Thanks. But sorry for coming back to the first point, historically you always said that
+Europe plus LatAm should be a double-digit business, North America about 8% and then Asia somewhat around 5%
+and then – in bringing together the 8%. Now in the second quarter you made 6.5%, obviously in H1 much less, but
+which of the areas at the moment really has the biggest improvement potential? Is it LatAm? And if that were to close
+that gap, then we have finally seen the 8% or is it more complex than that?
+
+Page 9 of 13
+
+Company Name: Daimler
+Company Ticker: DAI GR
+Date: 2013-07-24
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 56,970.79
+Current PX: 53.30
+YTD Change($): +11.98
+YTD Change(%): +28.993
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 4.758
+Bloomberg Estimates - Sales
+Current Quarter: 29134.000
+Current Year: 117142.273
+
+<A - Wolfgang Bernhard>: Well, I see basically that with Latin America there's the greatest improvement that we can
+make. There's a long way to go in terms of sales and products, so this is where we can do the most good. On Europe
+and America basically all the good products are underway. And all the things that we need to do is working on the
+operational side.
+<Q - Jochen Gehrke>: All right. Thank you.
+<A - Michael Mühlbayer>: Okay. Next in line is [ph] Laura Lemke (42:47).
+<Q>: Yeah. Good afternoon. I've got three questions please, two on Trucks and one on Cars. Just coming back to the
+Trucks, obviously looking at your full-year guidance I think you still have some way to go in the second half here, and
+I just wanted to check what your underlying assumption is regarding potential Euro VI pre-buys, so what you're
+actually factoring in here in order to make that number and maybe you can give a little bit more clarity on what your
+expectations are here for the Q4, especially given that it's now quite unlikely that we're going to see toll road incentives
+in Germany? So that's my first question.
+And, second one is also on Trucks, obviously like you just highlight most of your growth going forward will be driven
+by the emerging markets, yet that is obviously a region where ASPs are much lower and arguably margin as well, so
+does your long-term truck target of 8% margin reflect the potentially negative mix effect? Or maybe put differently,
+can you assure us that the growth in emerging markets will not be margin dilutive going forward? And then lastly, just
+on Mercedes, I mean your competitor BMW is now launching its i3 vehicle in a few days and obviously has been
+prepping the markets for quite some time regarding its brand strategy. So I was just wondering if you could remind us
+of your electric vehicle strategy, please.
+<A - Wolfgang Bernhard>: Your question on the emerging market, fortunately we are able to take a share out of those
+emerging markets and special applications where we are able to sell our premium trucks coming out of Europe. So this
+helps us on the one hand. And on the other hand, with the vehicles that we have in India, we are able to capture more of
+the heart of the market. It's not the lower end from their point of view, it's the heart of the market where we can now
+attack. As Dieter already mentioned in his statement, is that we are starting to launch these products out of India into
+Sri Lanka into the other African markets. So, this is very important, very important from us a strategic asset.
+Additionally, we also have our joint venture in China. With this joint venture, we are basically partnering up with the
+third largest truck manufacturer in the biggest truck market of the world. We are working together with this joint
+venture partner to see how can we increase our footprint and how we can capitalize on that status. So, we are having
+our focus on those emerging markets.
+<A - Dieter Zetsche>: As far as electric vehicles are concerned, we have the smarts in the market since quite some
+time, and are market leader for instance in Germany last year, this year so far. We announced that we will introduce the
+B-Class with electric drive train first in the U.S. and later on in Europe, starting end of this, beginning of next year. So
+that's imminent. We have, and that's certainly not a question of big volumes, but SLS E-Drive as well which is more a
+demonstrator of top-notch technology. So we think we are very well prepared in this technology and well underway in
+the marketplace.
+<Q>: Okay. Thank you. And can I just follow-up on the question regarding the full year truck guidance for 2013 and
+the assumption on the Euro VI pre-buy?
+<A - Wolfgang Bernhard>: Yes. I already said that we are – we were basically not happy with the first quarter. We
+are very happy with what happened the second quarter. It came in as expected. Now, for the rest of the year we have to
+catch up with what has not been achieved in the first quarter. This will happen in the second half of the year. So that's
+why we're saying the second half of the year will be higher than the first quarter, and by the end of the day, we are
+standing by our guidance, that our earnings for this year will be in the magnitude of the last year. So this all said and
+done, we think that with the market assumptions that we, have we can reach what we said by the beginning of this year.
+Is that okay?
+
+Page 10 of 13
+
+Company Name: Daimler
+Company Ticker: DAI GR
+Date: 2013-07-24
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 56,970.79
+Current PX: 53.30
+YTD Change($): +11.98
+YTD Change(%): +28.993
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 4.758
+Bloomberg Estimates - Sales
+Current Quarter: 29134.000
+Current Year: 117142.273
+
+<Q>: Yeah, just one just to clarify, so – because obviously, I think going into the year there was the expectation that
+Germany would introduce the toll road incentives for Euro VI but now that seems to be delayed. So I'm just wondering
+if that has changed your market assumption and maybe makes it more likely that you'll reach the guidance?
+<A - Wolfgang Bernhard>: No. This had no implications on the market whatsoever.
+<Q>: Okay. Thank you.
+<A - Michael Mühlbayer>: Okay. Next in line is Stephen Reitman.
+<Q - Stephen M. Reitman>: Yes. Good afternoon. Stephen Reitman from Société Générale in London. On the
+compact cars, could you give some color on the – your experience with the CLA in terms of customers, and also in
+terms of the transaction prices on that car, and what you expect for the GLA coming out later this year as well? Thank
+you.
+<A - Dieter Zetsche>: Thank you for the question. I think it's not exaggerate to say that the reaction to the CLA is kind
+of overwhelming so far. Wherever I come into any market, they expect me to look for some more production for their
+particular market, so very positive. Within this volume aspect, we have second positive element that it's a high conquest
+rate, as with the A-Class, where we see a 50% conquest. The CLA is a conquest car as well, very important for us for
+the offensive we want to drive in the compact car segment.
+Pricing, basically we are selling the vehicle the way we are offering it, so this is a good situation, even given –
+especially given the fact that in Europe you know that we have significant price pressure in the marketplace across the
+board and the compact segment definitely is not an exception there, but it's going well. Perhaps it's fair to say that in
+Germany, the pricing pressure generally is particularly high and that there are some customers questioning our price
+point with the CLA, and it's pretty ambitious there, but overall, we have a really good price realization with the CLA.
+The introduction in the U.S. is just ahead of us. This is a new price bracket for Mercedes in the U.S., so it's – we go
+deeper into the market to a new customer segment different from Europe, where the pricing is somewhat more
+ambitious. So overall, we feel very good with the CLA as far as volume is concerned, the specific customers in the
+sense of conquest, and the pricing so far as well.
+<Q - Stephen M. Reitman>: And do you have any flexibility in Kecskemét in terms of the production mix between
+the B-Class and the CLA?
+<A - Dieter Zetsche>: The B-Class is the one which is supposed to give us the flexibility by shifting it potentially back
+and forth between Rastatt and Kecskemét, and therefore potentially freeing up some additional volumes for the CLA.
+Of course, there are limitations to that because you have an entire supplier base which has to follow these potential
+moves, plus B-Class and A-Class are selling very well as well. So we have an overall supply issue with the compact
+cars, which is directionally a good problem to have, but you know that now these days, we'll see the beginning of
+additional capacity from [indiscernible] (51:03) as well, which will help us too.
+You were asking for the GLA before as well. There, of course, we have shown the concept car. In Frankfurt we will
+show the production car. Whatever we hear from our dealers in the first place, but customers so far as well, the reaction
+is very positive, but there we are not talking about orders or about pricing so far, so that is premature to make any final
+judgments in this regard.
+<Q - Stephen M. Reitman>: Thank you.
+<A - Michael Mühlbayer>: Our next questions we get from Frank Biller.
+<Q - Frank Biller>: Yes, yes, hello. Frank Biller from LBBW. Actually it's three questions. The first question from
+my side is about the second quarter and the earnings here. Well, you talked about your internal plannings and now we
+have seen the very good figures for the second quarter. How much have you been better than your internal planning in
+the second quarter, and how much was related here to foreign exchange and maybe raw material tailwinds here? That's
+my first question. The other is on markets, China, Europe, USA. Can you talk a bit about the current competition, the
+
+Page 11 of 13
+
+Company Name: Daimler
+Company Ticker: DAI GR
+Date: 2013-07-24
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 56,970.79
+Current PX: 53.30
+YTD Change($): +11.98
+YTD Change(%): +28.993
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 4.758
+Bloomberg Estimates - Sales
+Current Quarter: 29134.000
+Current Year: 117142.273
+
+situation in pricing here; is it a bit better than in the first quarter, or is it still as sharp the pricing pressure? And the
+other thing is on margins on Mercedes-Benz cars here. Is it fair to assume that in the second half, you should be able to
+reach at least the margins of the second quarter?
+<A - Dieter Zetsche>: Let's start with Q2. I would say, in – one point is that in the first quarter, the prospectives in the
+marketplaces looked pretty bleak for the industry altogether, especially in Europe. The second quarter, the market
+situation improved somewhat, not dramatically but somewhat. So we could realize some upside on the sales side.
+Secondly, you like to be a little bit cautious with your cost programs you're running, in taking them into your
+expectations. The way it's worked out is that we were very much at the upper end of our expectation as far as cost
+improvements are concerned, and that was another contributor to the positive outcome. And third, I would say perhaps
+our expectations were somewhat between the consensus and our final outcome, so a little bit upside to our planning, a
+little bit we expected to come in above consensus as well. So, overall, it's pretty much within our expectations, but at
+the high end of the ranges. China pricing, do you want to say something about Q2?
+<Q - Frank Biller>: About the markets?
+<A - Dieter Zetsche>: Yeah, okay. About the markets, what we expect for the rest of the year, on the truck side in
+Europe we expect that Europe will be bottomed out and we will see the uptick, so we expect growth in the marketplace
+for the rest of the year in Europe. NAFTA will be a little bit up we expect until the rest of the year. Asia will be
+basically flat and Latin America we will see further continued dynamism in the marketplace. So we will see also an
+increase in Latin America.
+<A - Dieter Zetsche>: Yeah, as for pricing in China, we clearly are to come a little bit more to a pull versus a push
+situation in the marketplace, that's when, especially in the first quarter, we took volumes back significantly. We have
+seen some positive impact from that side. From our side, incentives are coming down. Of course, we have less to no
+control about the dealer behavior. Overall, we see some developments in the right direction, but we always told you this
+is not changing or turning a switch and everything will be perfect from one day to the other, but it's a process over time.
+<A - Michael Mühlbayer>: So next question we take from Michael Tyndall.
+<Q - Michael J. Tyndall>: Hi. It's Mike Tyndall from Barclays. Thanks for taking my question. Just three questions if
+I may, two are very quick; just to confirm what you were saying about the other line in the EBIT walk-down, you – am
+I right in saying that you said 50% of it was benefits you saw in 2012, which haven't necessarily been repeated in 2013?
+The second question just again around the dealers, and I'm just wondering to what degree in your Fit for Leadership
+plan there is any cost savings associated with perhaps you shutting down some of your dealerships. I know that's been
+reported in the press?
+And then the final question if I may on the compact cars. I mean they've had a fantastic reception in the market. You
+are capacity constrained, at least to some degree. I'm just wondering if we think about it from a contribution margin
+perspective, have we reached cruising altitude now or is there still significant gain to come in terms of contribution
+margin from those vehicles, say, in 2014? Thanks.
+<A - Dieter Zetsche>: Perhaps let me start with the last point. As you know, this is a family of vehicles. We have
+launched three of the five vehicles. The third and the fourth and the fifth, based on the market segments and the overall
+configuration, will provide for higher margins than the first two. And therefore, just because of the launch sequence, we
+see further improvement as far as the average margins being accomplished are concerned. To your second question, Fit
+For Leadership, there we have two aspects of Fit for Leadership. One is 2013, 2014 with €2 billion target by the end of
+2014, as far as running rate is concerned. Within this, there's no element of retail included. Talking about Fit for
+Leadership in the sense that we want to address structural issues as well, one element we are looking at is our own
+retail. As I said before, ongoing without specific results at that point of time, this might have cost or margin impact as
+well, but nothing specified at that point of time. So I could answer your question, no, there's no content in Fit for
+Leadership with the slight remarks I made before. To your first question, when I said before, 50% is related to
+aperiodic aspects. Out of this 50%, it's basically half-half, 2012-2013. So, good [ph] guys (58:27) in 2012 which are not
+repeated in 2013 represent half of the impact and bad [ph] guys (58:34) in 2013 are the other half. And of the total, the
+
+Page 12 of 13
+
+Company Name: Daimler
+Company Ticker: DAI GR
+Date: 2013-07-24
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 56,970.79
+Current PX: 53.30
+YTD Change($): +11.98
+YTD Change(%): +28.993
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 4.758
+Bloomberg Estimates - Sales
+Current Quarter: 29134.000
+Current Year: 117142.273
+
+other 50% is related, as we said before, to content and to capacity and other issues. Okay?
+<Q - Michael J. Tyndall>: Got it. Thank you very much.
+<A - Michael Mühlbayer>: Okay. The last question we take from Philip Watkins.
+<Q - Philip R. Watkins>: Good afternoon. Philip Watkins from Citi. And thanks for taking my question. It was really
+on China. I know we're sort of hearing a little bit less about credit typing there, but I'm wondering if you have seen any
+problems with car dealerships in terms of them getting hold access to credit, and whether you think you might have to
+provide more support? Thank you.
+<A - Dieter Zetsche>: Directionally, no, but Bodo can answer that more specifically.
+<A - Bodo K. Uebber>: In terms of funding we are – we have a good position. We are somewhat pre-funded in China
+and we can do more in penetration even in the Financial Services business. So we plan also to increase the penetration
+for the second half. So fortunately we have not any impact on the discussion, which is currently going on in China on
+the credit side.
+<Q - Philip R. Watkins>: Okay. So even the dealerships don't need any more fundings?
+<A - Bodo K. Uebber>: Dealerships, of course, when we are growing the business, yes we have [ph] Walter (59:46)
+financing in China, so there will be an increase certainly when our numbers are going up, but I don't see any problem to
+finance it.
+<Q - Philip R. Watkins>: Okay.
+<A - Dieter Zetsche>: Plus we have new dealerships, as we discussed, coming on line and that applies for them as
+well, of course.
+<A - Bodo K. Uebber>: Right. Right.
+<Q - Philip R. Watkins>: Okay. Good. Thank you.
+<A - Bodo K. Uebber>: Welcome.
+
+Michael Mühlbayer
+Okay. Ladies and gentlemen, thank you for your questions and for being with us today. Investor Relations will remain
+at your disposal to answer any further questions you may have. We hope to talk to you again soon. Thanks and
+good-bye.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2013, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.
+
+Page 13 of 13
+
+
