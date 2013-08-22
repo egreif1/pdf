@@ -109,14 +109,7 @@ public class Company {
 			System.exit(1);
 		}
 		while(line != null)
-		{
-			try {
-				line = br.readLine();
-			} catch (IOException e) {
-				System.out.println(e.getMessage());
-				System.exit(1);
-			}
-			
+		{	
 			// now search the line
 			for (String t : terms)
 			{
@@ -126,6 +119,12 @@ public class Company {
 					this.lines.add(line);
 					break;
 				}
+			}			
+			try {
+				line = br.readLine();
+			} catch (IOException e) {
+				System.out.println(e.getMessage());
+				System.exit(1);
 			}
 		}
 	}
@@ -145,11 +144,34 @@ public class Company {
 			System.out.println(e.getMessage());
 			System.exit(1);
 		}
-		
+
 		BufferedReader br = new BufferedReader(file);
+		String line = null;
+		boolean onblock = false;
+		ArrayList<String> currentParagraph = new ArrayList<String>();
 		
+		try
+		{
+			line = br.readLine();
+		}
+		catch(IOException e)
+		{
+			System.out.println(e.getMessage());
+			System.exit(1);
+		}
 		
-		
+		while(line != null)
+		{
+			
+			
+			
+			try {
+				line = br.readLine();
+			} catch (IOException e) {
+				System.out.println(e.getMessage());
+				System.exit(1);
+			}
+		}
 		
 	}
 	 
