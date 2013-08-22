@@ -1,0 +1,672 @@
+Company Name: Georg Fischer
+Company Ticker: FI/N SW
+Date: 2013-07-17
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 1,921.27
+Current PX: 468.5
+YTD Change($): +113.86
+YTD Change(%): +32.105
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 36.913
+Bloomberg Estimates - Sales
+Current Quarter: N.A.
+Current Year: 3653.000
+
+Q2 2013 Earnings Call
+Company Participants
+• Yves Serra
+• Roland Abt
+
+Other Participants
+•
+•
+•
+•
+•
+•
+
+Christoph Ladner
+Tobias Fahrenholz
+Thomas Baumann
+Armin Rechberger
+Torsten Wyss
+Fabian Häcki
+
+MANAGEMENT DISCUSSION SECTION
+Operator
+Ladies and gentlemen, good morning. Welcome to the presentation of the Mid-Year Results of Georg Fischer Ltd. I'm
+Selena, the Chorus Call operator. I would like to remind you that all participants will be in listen-only mode and the
+conference is being recorded. After the presentation, there will be a Q&A session. [Operator Instructions]
+At this time it's my pleasure to hand over to Mr. Yves Serra, CEO. Please go ahead, sir.
+
+Yves Serra
+Ladies and gentlemen welcome and thank you for participating to our mid-year conference. Present on our side today
+are Roland Abt, CFO; Daniel Bösiger, Head of Investor Relations, Beat Römer, Head of Corporate Communications,
+and myself, Yves Serra.
+I'm happy to present results today, which despite deteriorating market conditions in Europe, show several
+improvements compared to last year. Regarding sales, slide two. Georg Fischer kept during the first half of 2013 its
+turnover at CHF 1,837 million. This is the same level as in the first semester of 2012 at least on a like-for-like basis that
+is excluding acquisitions, divestments and currency effects. The main reason has to do with strong sales in Asia and
+America, but also with market share gains which compensated the soft demand situation in several European countries.
+Now, if you look at the figures in our report, you will see that the 2013 turnover stands 2% below previous year. The
+difference stems mainly from the two GF Automotive aluminum sand-casting plants, which were divested at the end of
+2012 and accounted for about CHF 68 million of turnover during the first semester of 2012.
+The operating result itself stands 3% above previous year at CHF 118 million, and cash flow before acquisitions has
+been clearly improved by CHF 68 million. Also, all three divisions generated value with return on invested capital,
+ROIC, well beyond the cost of capital. Finally, further steps have been taken towards the implementation of our
+strategy, namely the signing of an important acquisition in Turkey for GF Piping Systems.
+Regarding market share increases, slide three. Let's have a look for example at the truck market of GF Automotive.
+There, the production in Europe went down 11%, I mean, the portion of trucks in Europe went down 11% in the first
+
+Page 1 of 11
+
+Company Name: Georg Fischer
+Company Ticker: FI/N SW
+Date: 2013-07-17
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 1,921.27
+Current PX: 468.5
+YTD Change($): +113.86
+YTD Change(%): +32.105
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 36.913
+Bloomberg Estimates - Sales
+Current Quarter: N.A.
+Current Year: 3653.000
+
+half year, but GF Automotive managed to limit its sales drop to 2% on account of large orders for the new Euro 6
+generation of trucks.
+Also, GF AgieCharmilles, slide four, compared to competitors in Germany and in Japan, the division grew 5% against
+an average drop of 10%, respectively 20%. Several large orders related to the production of electronic devices in Asia
+but also in the aeronautics sector worldwide were certainly key ingredients behind this positive development.
+The expansion of Georg Fischer in Asia and in America, slide five, continued in accordance with our strategy to reduce
+our dependence on Europe and achieve a better balanced presence worldwide. Slide five shows the steady progress in
+that respect, with Asia now accounting for 22% and America for 14% of total sales. By 2015, it is our goal to bring our
+sales outside of Europe to 50% of total against almost 60% today.
+Also, slide six, steady progress is being made towards a better balanced portfolio with proportionally more GF Piping
+Systems in the turnover of Georg Fischer. As you can see on the slide, in the first half of 2013, GF Piping Systems
+accounted for 36% of total against 33% in 2011. This share will continue to grow.
+Turning now to the three divisions of Georg Fischer and starting slide seven with GF Piping Systems. The unusually
+long and cold winter conditions did affect construction and infrastructure, especially in Europe and parts of the U.S.
+GF Piping Systems had therefore a rather weak first quarter, but was able to make up for it in May and June as delayed
+projects started to be implemented. Also, the semiconductor related investments began to pickup and the building
+technology markets of GF Piping Systems did perform rather well. The major growth drivers remained, however,
+America and Asia, which is now together account for 55% of the turnover of the division.
+All in all, GF Piping Systems has increased its top line by 3% to CHF 665 million free from acquisitions and currency
+related effects. The turnover remained basically at last year's level. On the operational profit side, GF Piping Systems
+also stood at previous year level despite the low plant utilization in Europe, especially in the first quarter.
+The acquisitions done in the U.S. in 2012 have now been fully integrated and the new one signed in Turkey in May of
+this year was closing, happened yesterday. The new acquisition Hakan Plastik not only allows GF Piping Systems a
+major entry into the Turkish market, but also brings a whole array of complementary products to be sold by GF Piping
+Systems in other countries, for example, in Eastern Europe, Middle East or India.
+Turning now to GF Automotive, slide eight. GF Automotive sold last November two aluminum sand-casting plants
+with a combined annual turnover of CHF 130 million. If we exclude this divestment from the figures, one ends up in
+the first half of 2013 with a similar turnover as in the same period of 2012. Higher production levels in China certainly
+helped to maintain the overall sales figure of GF Automotive at previous year's level.
+The operational results was also similar to previous year despite provisions made for the ongoing cost reduction plan.
+Looking forward, major contracts have been booked, both in the car and truck segments, which should in the next
+months and years, significantly contribute to the top and bottom line of GF Automotive.
+The common denominator behind being the ability of GF Automotive to offer its customers solutions to reduce the
+weight of their vehicles in a significant manner, 20% to 50%, either through the use of new materials or thanks to the
+application of new designs as shown on this slide for a well-known European car manufacturer.
+Finally, turning to GF AgieCharmilles, slide nine. GF AgieCharmilles has, during this first half year, clearly increased
+its order intake and sales by 5%. The strategy of serving few business segments like the production of electronic
+devices for the aeronautic sector with more dedicated products and sales personnel starts to pay off. Indeed, the sales
+increase has been obtained; thanks to high growth in those segments, especially in America and in Asia, and despite an
+otherwise generally subdued demand as shown earlier.
+Also, the overall dependence on Europe has now been reduced to circa 45%. GF AgieCharmilles will show during the
+EMO 2013, the major machine tool exhibition, several novelties addressing the needs of our customers in the less
+cyclical business sectors we are aiming at that is the medical and aeronautic sectors, as well as information and
+communication technology. The operational profit of GF AgieCharmilles also went up by almost 30% as plants of the
+
+Page 2 of 11
+
+Company Name: Georg Fischer
+Company Ticker: FI/N SW
+Date: 2013-07-17
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 1,921.27
+Current PX: 468.5
+YTD Change($): +113.86
+YTD Change(%): +32.105
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 36.913
+Bloomberg Estimates - Sales
+Current Quarter: N.A.
+Current Year: 3653.000
+
+divisions were better loaded.
+I'll now turn over to our CFO, Roland Abt, for a detailed look at the first half figures.
+
+Roland Abt
+Thank you, Yves. Good morning, ladies and gentlemen. It's a pleasure for me to present to you the details of the
+financial statements for the half year closing 2013. As you know, this is the first closing based on Swiss GAAP FER
+since we have changed our accounting standard as from January 1, 2013. I will show you the effect of this change. But
+first, let's start with the income statement on slide 11.
+Sales, overall, came in a little bit lower than previous year. The difference is CHF 30 million or 2%. The net effect
+from acquisitions and divestments amounts to minus CHF 50 million, mainly due to the divestment of the two
+aluminum sand-casting foundries in Friedrichshafen and Garching.
+Together with a positive currency impact of CHF 27 million, it results an organic change of minus CHF 7 million,
+which is less than 0.5%. Gross value added is down 1% more or less in parallel with sales. Personnel expenses are
+down by CHF 11 million to CHF 459 million. The difference comes on the one side from divestments on the other side
+we had salary increases especially in Germany, Austria and China.
+EBITDA results CHF 2 million better at CHF 181 million. Depreciation are lower at CHF 63 million, leading to an
+improvement of the EBIT of CHF 3 million to CHF 118 million. Financial result is slightly lower at CHF 15 million.
+Income taxes have increased in percent more in profit before taxes to CHF 21 million. Tax rate has grown 2 percentage
+points to 20%, mainly due to the consumption of tax loss carry forwards in the U.S. Tax rate should remain on that
+level till the end of the year. Net profit rose by CHF 2 million to CHF 83 million. Earnings per share are up CHF 1 to
+CHF 20.
+On slide 12, we come now to the changes we had due to the changeover to Swiss GAAP FER. I'd like to point out that
+the most important reason for the change to Swiss GAAP FER was that we can continue to consolidate 50% of our big
+China joint venture, Chinaust.
+The main changes from IFRS to Swiss GAAP FER can be summarized as follows: All the figures presented in the
+financial statements for the half year closing are according to Swiss GAAP FER. 2012 has been reconsolidated using
+the new standard. The effect on the half year EBIT 2012 is CHF 2 million positive. This positive impact comes from
+the elimination of some acquisition related purchase price allocation effects. This overall difference of CHF 2 million
+on EBIT level and just CHF 1 million on net profit level can be considered as minimal. The effect on the equity was a
+reduction of CHF 262 million as of January 1, 2012, mainly on account of the goodwill elimination.
+At the bottom of the slide, you can see the main differences of the change. The first one, the proportionate
+consolidation I've already mentioned. We have eliminated goodwill against equity. Some PPA effects were eliminated
+from the profit and loss statement. Pension fund liabilities and costs are calculated based on local standards.
+We have put the provision in the restatement as of January 1, 2012, in cases we consider discount rates too high.
+Regarding divestments, we have to reintegrate a Friedrichshafen and Garching in the full year accounts of 2012 since
+Swiss GAAP FER does not know discontinued operations.
+We go to slide 13, sales by division. The breakdown of sales per division shows that GF Piping Systems could increase
+sales by 3% to CHF 645 million. The growth stems from the acquisition of IPP. Organically, it results a reduction of
+less than 1%.
+GF Automotive reports a decline in sales of CHF 72 million, down to CHF 752 million, mainly due to the divestment
+of the aluminum sand-casting units. On a like-for-like basis, sales are down by 2%. GF AgieCharmilles continued
+steadily its growth by 6%. The corporation shows a reduction of CHF 30 million or 2%. Organically, this is just stable.
+
+Page 3 of 11
+
+Company Name: Georg Fischer
+Company Ticker: FI/N SW
+Date: 2013-07-17
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 1,921.27
+Current PX: 468.5
+YTD Change($): +113.86
+YTD Change(%): +32.105
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 36.913
+Bloomberg Estimates - Sales
+Current Quarter: N.A.
+Current Year: 3653.000
+
+On slide 14, the EBIT and the return on sales by division. In general, we can say that the currency impact was quite
+moderate, only AgieCharmilles could take advantage of it. EBIT of Piping Systems is at CHF 68 million, the same
+figure as last year. This corresponds to an EBIT margin of 10.1%. GF Automotive reached CHF 35 million, minus
+CHF 2 million less than last year. EBIT margin improved by 0.2 percentage points to 4.7% since the reduction of sales
+was relatively higher than the reduction of the EBIT.
+GF AgieCharmilles could clearly raise its EBIT by about 30% to CHF 22 million. EBIT margin was improved by
+almost 1 percentage point to 5.2%, thereof half of it comes from the currency. EBIT of the corporation overall amounts
+to CHF 118 million, up CHF 3 million. EBIT margin grew by 0.2%, percentage points to 6.4%.
+On slide 15, the free cash flow statement. Free cash flow could be strongly augmented. The changes in net working
+capital disclose a big improvement. Due to the usual seasonality, net working capital has absorbed cash in the amount
+of CHF 118 million. Compared to previous year, this is CHF 55 million less. Cash flow from operating activities has
+therefore developed positively to CHF 42 million.
+CapEx were relatively low in the first half of 2013 at CHF 32 million. This leads finally to a free cash flow of plus
+CHF 7 million. Even if we deduct the aspect of the acquisitions last year, there remains an improvement of CHF 68
+million.
+Slide 16, here you can see the development of the free cash flow before acquisitions in the first six months over the last
+couple years. Normally, it's negative as you can see, hence the plus CHF 7 million free cash flow in the first half 2013
+are quite a good achievement. Net debt is at CHF 400 million. This is CHF 111 million below June 2012. Net debt ratio
+is at a low level of 1.1x.
+Finally on slide 17, the overview of the key figures. Sales are down 2%. Organically, they're on the same level as
+previous year. EBIT margin has slightly improved to 6.4%. The ROIC is lower than 2012. The calculation of the ROIC
+is based on the NOPAT, the net operating profit after taxes. The reason for the lower ROIC lies in the higher current
+tax. Return on the equity is at 17%, same level as last year. Equity ratio, now, according to Swiss GAAP FER, is at
+solid 36%, up 2 percentage points. Earnings per share are up CHF 1 to CHF 20. And finally the number of employees
+was reduced by about 440 persons, down to a head count of 13,400.
+Now, I hand over again to Yves Serra for the outlook.
+
+Yves Serra
+Thank you, Roland. Now, what do we expect for the next – for the rest of the year? Slide 19. The second half here is
+traditionally a bit weaker than the first half, especially at GF Piping Systems and GF Automotive. It has mainly to do
+with destocking and planned holidays at customers at year-end. However, we are confident that this year several
+elements are coming into play which would at least partly change this pattern.
+Projects, delayed by bad weather during the first half year, are now coming up at GF Piping Systems. At GF
+Automotive, we see a slight increase of truck production in Europe during the second half year and also increases in
+China. Together, these effects would at least partly compensate the downturn in the European car market.
+The backlog of GF AgieCharmilles is high ensuring good sales at least for the next three months. Also, the cost
+reductions, which all have been implemented during the first six months, are now starting to be effective. And the new
+acquisition in Turkey will also bring additional volume and profit. All in all, we are confident for the second half year
+to achieve a similar result as in the first.
+For the mid-term, slide 20, we reconfirm our objectives of 8% return on sales and 15% return on invested capital. For
+the return on invested capital, we will certainly revise the objective approach following the switch to Swiss GAAP
+FER. On the return on sales level, it has no meaningful effect.
+We also reconfirm the key measures to achieve our objectives. A higher share of GF Piping Systems in the turnover of
+Georg Fischer to at least 40% to 45%, continue to optimize productivity in Europe by GF Automotive, and expand
+
+Page 4 of 11
+
+Company Name: Georg Fischer
+Company Ticker: FI/N SW
+Date: 2013-07-17
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 1,921.27
+Current PX: 468.5
+YTD Change($): +113.86
+YTD Change(%): +32.105
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 36.913
+Bloomberg Estimates - Sales
+Current Quarter: N.A.
+Current Year: 3653.000
+
+significantly the division in China, and finally to focus GF AgieCharmilles on less cyclical market segments.
+Thank you very much. We'll now take your questions.
+
+Q&A
+Operator
+We will now begin the question-and-answer session. [Operator Instructions] The first question comes from Mr.
+Christoph Ladner from Kepler Cheuvreux. Please go ahead, sir.
+<Q - Christoph Ladner>: Yes. Good morning, gentlemen. I have a couple of questions. The first is on the
+restructuring provision. You gave a figure on page 16 of the half year report for CHF 3 million. Is that the restructuring
+provision? And if yes, how does that split between the segments? That's the first question.
+Then second on the cost savings of CHF 25 million, how much of that will we see in EBIT or it's just all eaten up by
+pricing pressure, for example?
+Then the third maybe just a little more technical question. It's on page 14 of the half-year report under the title
+adjustments for net profit. Could you please explain the largest item there, adjustments, discontinued operations, FX
+translation difference of CHF 10 million? I don't understand this one.
+And then the fourth question would be, sorry, as seen in the past, your account receivables and inventories are up quite
+significantly in the half year when we compare end June to end December. Is this just due to that special moment of
+reporting date or can you confirm that there's nothing abnormal of that as seen on sheet – on slide 16 of the
+presentation, so everything normal?
+And maybe a fifth question would be the average utilization rate you said particularly for Piping Systems in Q1 was
+relatively low. How was it in the first half of the year on average and how would you see that in the second half of the
+year? That have been all the questions. Thank you.
+<A - Yves Serra>: Okay. I think there are five questions. I will answer question two and five, and Roland Abt the
+question one, three and four.
+If I start with the last question, utilization rate, basically at Piping Systems it's true that we had the weak first quarter in
+Europe and therefore the plants in Europe were not well loaded. This was much better in the second half year, but
+overall during the first semester, we probably had a utilization rate of 85% at GF Piping Systems in Europe. And we
+see, looking – going forward an improvement in the second – the momentum in the second quarter was quite good, so
+probably to 90%.
+Second question was the repartition of the distribution of the CHF 25 million savings. Just a point about this remark.
+Since we have implemented all the measures, we expect for 2014 the full effect of the CHF 25 million. But during the
+second half of the year, probably, half of this effect since many of the reduction of head count will only happen -- let's
+put it this way -- after August and September.
+So, overall, this impact, I mean, this CHF 25 million affect GF Automotive first since this is division which has the,
+let's say, the major presence in Europe. So it would about two-thirds affect GF Automotive and the, one-third affect GF
+AgieCharmilles and GF Piping Systems.
+<Q - Christoph Ladner>: But do you see that effect really on EBIT?
+<A - Yves Serra>: We see this effect on EBIT. Not all in the second half because of the head counts do not
+[indiscernible] (28:13) three to six months period to make sure that everyone – every contract is respected. So this year
+probably, let's say, half of it, right?
+<Q - Christoph Ladner>: Okay.
+
+Page 5 of 11
+
+Company Name: Georg Fischer
+Company Ticker: FI/N SW
+Date: 2013-07-17
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 1,921.27
+Current PX: 468.5
+YTD Change($): +113.86
+YTD Change(%): +32.105
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 36.913
+Bloomberg Estimates - Sales
+Current Quarter: N.A.
+Current Year: 3653.000
+
+<A - Roland Abt>: Then the question regarding the adjustments for the discontinued operations, you said that we have
+an improvement of CHF 10 million on the net profit for 2012. The reason therefor is that the accumulated currency
+losses were part of the loss we have shown in the discontinued operations according to IFRS.
+Now, changing to Swiss GAAP FER, all the currency – the accumulated currency losses were eliminated at the time of
+the restatement, so that means these CHF10 million, which only have been recycled as old currency losses, are not
+necessary to do that according to Swiss GAAP FER since they were eliminated in the restatement. So therefore we
+have an improvement of these CHF 10 million because we did not have to recycle these currency losses.
+Then, the next question is regarding the net working capital, the growth of the accounts receivables and stocks. This is
+the normal seasonality. And if you look at slide 15 and 16 or especially the slide 16, you see that normally, the first six
+months, they have a negative free cash flow, and that's exactly why I wanted to show this slide in order to show that
+despite the growth in the net working capital we had in the first six months, that this is quite a good achievement what
+we achieved in 2013 if you compare that with the first six months of the previous years.
+So for the full year, of course, we hope that we will have no growth in the net working capital at all. But we have really
+a quite an accentuated seasonality. That means in the half year, we always have quite a negative impact from the net
+working capital.
+<Q - Christoph Ladner>: Okay. Thank you. That was clear. And maybe on the last question, the restructuring
+provision, how does that split?
+<A - Roland Abt>: You mean the split of the restructuring provision between the three divisions?
+<Q - Christoph Ladner>: Exactly.
+<A - Roland Abt>: So the biggest part – I mean, it's altogether, it's CHF 3 million to CHF 4 million and the biggest
+part is certainly Automotive. This is maybe two-thirds, and the rest is more or less equal between AgieCharmilles and
+Piping Systems.
+<Q - Christoph Ladner>: Okay. Thank you very much.
+
+Operator
+The next question comes from Mr. Tobias Fahrenholz from MainFirst Bank. Please go ahead, sir.
+<Q - Tobias Fahrenholz>: Yes. Hello, gentlemen. Hi. Follow-up maybe on the previous question again on the cost
+savings. You're speaking about CHF 25 million in total. I would assume a company always have some kind of cost
+savings. Would you say that is really – you had hardly anything here in the last year and that then CHF 25 million
+higher, or did you have normal cost savings at the level of, I don't know, CHF 10 million, CHF 15 million, something
+like this? Maybe give us a better feeling here.
+And then on this working capital, I think this big improvement mainly came from the trade payables. So did you have
+here some good luck just with the timing and could you give us your free cash flow guidance for the whole year?
+And then one – two final ones regarding the important China region. Are you seeing any changes here, any cooling or
+something like this?
+And the last one related to trucks. Are you seeing any pre-buying effect for the old trucks, for the old Euro 5 trucks in
+the second half? So what have you looked at in your planning?
+<A - Yves Serra>: Thank you very much for the questions. I will answer question number one, three and four, and
+Roland Abt will answer the question on payables.
+Basically, the CHF 25 million are new cost savings. They're independent of whatever we did in the previous year. Now,
+I would like to make a comment on cost savings. We are not only doing cost savings, we are also insisting on
+
+Page 6 of 11
+
+Company Name: Georg Fischer
+Company Ticker: FI/N SW
+Date: 2013-07-17
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 1,921.27
+Current PX: 468.5
+YTD Change($): +113.86
+YTD Change(%): +32.105
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 36.913
+Bloomberg Estimates - Sales
+Current Quarter: N.A.
+Current Year: 3653.000
+
+innovations bringing new product to the markets on developing new market as well. So what we say on cost savings on
+part of the equation, but this CHF 25 million, yes, they are new cost savings.
+Regarding China, I mean, we are active in three sectors in three divisions in China. We see for the time being overall a
+let's say a positive picture despite whatever news we may have about financing restrictions. In the car business, we see
+continuing growth. We have quite a lot of new contracts, which bode well for the next years to come.
+In the Piping Systems business, I mean, we are in the infrastructure business, we are in the building technology
+business. Then one could infer from the present situation and the construction business would be affected. But in fact,
+we are attacking new market segments. We are just at the high end. Now we are on high and middle range segments.
+So we still grow quite nicely.
+And the infrastructure business basically the water we use, [indiscernible] (34:50), the transport of water from a point
+to the other is and remains a big business in China. As you know, there is a major plan to ship or to bring water from
+the major rivers to the north. And of course Chinaust, our joint venture, which is the number one company in this
+business, is profiting from it. And in the machine tool business, so far, we have not seen any major effect, major
+customers being all basically geared toward exports.
+Regarding trucks, we see, yes, a pre-buying of Euro 5 trucks, but it's quite different from a truck manufacturer to the
+other. And we shall see at some of the truck manufacturers quite a strong increase in the production of the new Euro 6
+trucks. So both effects are coming into play.
+Roland?
+<A - Roland Abt>: Yeah. Regarding the working capital, I mean, we, at least, managed that we could stop the growth
+of the net working capital since we had – over the last two years, we had a growth or a significant growth of the net
+working capital. So since we were able to stop that, we have, of course, quite a big improvement. And then if you
+compare in our balance sheet, at the end of June previous year and now, it's correct what you said, mainly the trade
+accounts payables, they have improved.
+But overall, we can say we had basically, if you adjust for seasonality, we had no real growth. We just had a seasonality
+of about CHF 100 million – CHF 110 million, we always have, from December to June and no real additional growth.
+So, of course, we believe that this will be reduced towards the end of the year, again, down to the level where we have
+started the year. So for the full year, free cash flow before acquisitions, we estimate that we should be, at least, in the
+level of CHF 100 million to CHF 150 million.
+<Q - Tobias Fahrenholz>: Okay. Thank you.
+
+Operator
+The next question comes from Mr. Thomas Baumann from Mirabaud Securities. Please go ahead, sir.
+<Q - Thomas Baumann>: Yeah. Good afternoon, gentlemen. I have two questions with regard to end markets. First of
+all, to AgieCharmilles, I mean, the division is quite nicely diversified when it comes to end markets. Can you give us
+an update there with regard to the state of the single end markets? Where do you see particular strength in these
+markets and possibly where are the weak spots, that is for AgieCharmilles?
+And then secondly for Automotive, how – I mean, being a mutual line now, I think you should have a pretty clear
+picture with regard to the holiday schedule, summer holiday schedule, of your customers. Can you give some color
+there? How does that compare to summer 2012? Are the breaks, the summer breaks, bigger or smaller or shorter than
+last year? Thank you.
+<A - Yves Serra>: Thank you very much. On AgieCharmilles, I think, we've seen a stable growth in the smartphone
+business, for example, or smartphone-related business, also in medical, goods in aeronautics. We see also a new growth
+in the semiconductor-related equipment. On the other hand, in the car business, at least in Europe, we see a decrease.
+
+Page 7 of 11
+
+Company Name: Georg Fischer
+Company Ticker: FI/N SW
+Date: 2013-07-17
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 1,921.27
+Current PX: 468.5
+YTD Change($): +113.86
+YTD Change(%): +32.105
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 36.913
+Bloomberg Estimates - Sales
+Current Quarter: N.A.
+Current Year: 3653.000
+
+So overall, there is an increase but of course it's different from a sector to the other.
+And if you look geographically, I think we see the same pattern as for the other businesses, growth in Asia, growth in
+America and a subdued situation in Europe, but we didn't see a decline in Europe for AgieCharmilles at least.
+For GF Automotive, the question was about the holiday schedule. Yes, some of our customers have announced no
+closure of the plants or let's say a shorter closure this time but not all of them. I mean, it was published in the last few
+weeks. So, overall, we think that the – yes, it will be a shorter closure and therefore, we are, we have been already in
+June and will in July also pre-produce because we need to stop our plants for two weeks in August for maintenance.
+<Q - Thomas Baumann>: Thank you.
+
+Operator
+[Operator Instructions] The next question comes from Mr. Armin Rechberger from Zürcher Kantonalbank. Please go
+ahead, sir.
+<Q - Armin Rechberger>: Yes. Almost all my questions are answered already, only two questions. First of all, what
+do you see for the CapEx in the second year? I estimated for the whole year CHF 130 million. You managed to spend
+only CHF 32 million in the first half year. So what you predict there then?
+Regarding utilization of your foundries in Europe, can you elaborate a little bit there? How is the utilization rates,
+especially in Europe, and the development? I mean, in regards of that, you sold now Garching and Friedrichshafen.
+How does the utilization rate looks like now?
+<A - Yves Serra>: Thank you very much. I answer second question and Roland Abt will answer the first. The foundry
+utilization situation in Europe is as follows: In the light nickel business, aluminum, magnesium, we have a utilization
+rate of about 90%. In the iron foundries, we have had a utilization rate of about 75% so far. In China, we have had a
+utilization rate of 100%.
+<A - Roland Abt>: Regarding the CapEx, we really have an extraordinarily low figure in the first half with CHF 32
+million. I mean, basically, we still estimate that we should spend around CHF 130 million as you said for the full year.
+Now with the very low figure in the first six months, I have also my doubts, I must admit.
+Maybe the [indiscernible] (41:55) figure, we also got bottom up from our companies or they still believe they will
+invest CHF 130 million. So there are certain delays in some projects, but I have no better figure than still the CHF 130
+million. Maybe it will be a little bit lower, maybe it will be CHF 120 million. But, yes, basically, we still believe – or
+the projects that are going on, that it's on a – should be in a range of CHF 130 million.
+<Q - Armin Rechberger>: Thank you. I have an additional question if I may. Do you hear me?
+<A - Yves Serra>: Yeah, yeah. Sure. Please.
+<Q - Armin Rechberger>: Regarding China, you said utilization rate is 100% and you want to invest there for
+Automotive. I'm talking about the foundry. Which kind of foundries – what are you planning to do in China now, iron
+or aluminum foundries, or what are your plans there?
+<A - Yves Serra>: Yes. Our plans are to increase capacity by 50% in those areas. We have the land already, so we can
+increase capacity. We already started with the buildings and so we plan for 2015 to have this 50% capacity increase in
+place at both foundries.
+<Q - Armin Rechberger>: Okay. Thank you very much.
+
+Operator
+
+Page 8 of 11
+
+Company Name: Georg Fischer
+Company Ticker: FI/N SW
+Date: 2013-07-17
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 1,921.27
+Current PX: 468.5
+YTD Change($): +113.86
+YTD Change(%): +32.105
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 36.913
+Bloomberg Estimates - Sales
+Current Quarter: N.A.
+Current Year: 3653.000
+
+The next question comes from Mr. Torsten Wyss from UBS. Please go ahead, sir.
+<Q - Torsten Wyss>: Yes. Good morning. Thanks. I just had a few basically clarification questions -- I'm sorry -- to
+get your answers correctly. So first, I mean, the provisions we have seen in H1, you don't plan or you don't see further
+provisions in H2, I guess. Is this correct?
+And second question would be on the effects you stated to see mostly the positive cost saving effects after August,
+September. I guess, you speak about 2013, not 2014. That's just clarification. And – well, perhaps briefly those two
+first.
+<A - Yves Serra>: I'll answer the second question, Roland will answer the first. Yes, you are right. The effects will
+come I'd say after August, September this year.
+<A - Roland Abt>: Regarding the provisions, yes, this should be – we should not need any further provisions in the
+second half, so this CHF 3 million to CHF 4 million should be enough for the whole restructure – or for the whole cost
+saving program.
+<Q - Torsten Wyss>: Okay. Thanks. So on the cost savings of CHF 25 million, you said the split might be 50/50 for
+2013, 2014. I would rather have expected a bit more savings in 2014 or in other words, less in 2013. Are you – I mean,
+is this still – I mean, is this indication – did I get this correct, the 50% split of the savings?
+<A - Yves Serra>: No, no. In 2014, we have the 100% effect. In 20 – in the second half of the year, we have only half
+of the effect, right? Because a lot of the head counts, which basically is leaving the company, leaves after a period of
+three to six months. In 2014, we'll have the full effect of the CHF 25 million. In 2013, we'll have half of the effect of
+half a year, basically.
+<Q - Torsten Wyss>: Hold on. The total cost saving is CHF 25 million accumulated, right?
+<A - Yves Serra>: Accumulated, yes.
+<Q - Torsten Wyss>: So that...
+<A - Yves Serra>: [ph] That percent (45:43) for 2014, yes.
+<Q - Torsten Wyss>: So that means whatever, CHF 5 million to CHF 10 million this year and the remaining next year.
+<A - Yves Serra>: Yes, that's probably good as far as a guess is concerned. Yes.
+<Q - Torsten Wyss>: Sure. Thanks. And then on the piping sales and basically target, you speak about 40% to 45% of
+piping sales as a target. In the past you spoke about 40% to 50%, I don't want to get too much into details, but is this
+coincidence or did you really slightly reduce your expectations on how much increase piping exposure?
+<A - Yves Serra>: No. Actually, we said at least 40% to 45%, at least 40% to 45%.
+<Q - Torsten Wyss>: Okay. And continuing with piping, the margins, which to me have been a bit disappointing, I
+have to say, I mean, I still expect the synergies out of the acquisitions, but I might have to give up here. I mean, I
+understand the underutilization problem, obviously weather effect, whatever, we've got economical problems out there.
+But still let's put the question in another way. I mean, the target you have 11% to 13% EBIT margin, what sales level
+would you need in order to really reach 13% EBIT margin for piping?
+<A - Yves Serra>: Well, I think that Piping Systems, basically we have had in the first quarter a rather low utilization
+especially in Switzerland [indiscernible] (47:12) second half and what we are doing in Piping Systems is of course to
+increase sales, that's first point, but also to review all items of cost and efficiency; purchasing, supply chain, stocks.
+Also, we are basically switching some of the products, which are lower value added to other countries, and introducing
+in Sweden our Swiss plant innovative products at least this year and next year to change the pattern of the type of
+products we produce in Switzerland.
+
+Page 9 of 11
+
+Company Name: Georg Fischer
+Company Ticker: FI/N SW
+Date: 2013-07-17
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 1,921.27
+Current PX: 468.5
+YTD Change($): +113.86
+YTD Change(%): +32.105
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 36.913
+Bloomberg Estimates - Sales
+Current Quarter: N.A.
+Current Year: 3653.000
+
+We are attacking new market segments which bring additional revenue and margins like for example cooling. So I
+think we'll do everything at Piping Systems to make sure that our margins are in the 11% to 13% range. Now, so far we
+have had a margin which is a bit lower, one point lower, but we think that the 11% to 13% margin is realistic even if
+there is not a huge growth in the market or a huge growth organically.
+<Q - Torsten Wyss>: Okay. And the last question on trucks. I mean, speaking to the OEMs, the truck producers, we
+do get indications that they see a pre-buying as we have discussed in this call before pre-buying effect in Q4,
+potentially followed as a consequence with a lack of sales in Q1 2014. Now, listening to you, it doesn't seem as if you
+see such hiccups. Is it due to the effect that you are supplying the OEMs and hence have a smoother development or do
+you also see some, whatever, like hiccup effect going into Q4 and into Q1 2014 speaking about your trucks business?
+<A - Yves Serra>: I think the main effect we have had so far are market share gains. In other words, we have had quite
+a lot of contracts for the new trucks, which, of course, helped us already to increase sales a bit. And going forward, we
+think this will help even more because the more market share we gain even if the market is a bit soft, should go in the
+right direction.
+So, yes, we see a pre-buying in Q4, but not at all manufacturers of trucks, because not every Euro 6 truck is configured
+the same way. So some – will gain – some of our customers will gain market share against some others.
+Overall, I think that if we continue in that way to increase market share, soon the offer that we have in orders to reduce
+the weight of the trucks or to help our customers to reduce the weight of the trucks, I think, will be in rather good
+shape, in my view. And this is very important for us because the truck business is about 50% of the business we have in
+the iron foundries. And this is exactly where the utilization, so far, has been behind.
+<Q - Torsten Wyss>: Yes. So you have huge leverage there on the EBIT level.
+<A - Yves Serra>: Yes.
+<Q - Torsten Wyss>: Okay. Thanks a lot. Very helpful.
+
+Operator
+The next question comes from Mr. Fabian Häcki from Bank Vontobel. Please go ahead, sir.
+<Q - Fabian Häcki>: Yes. Good morning, gentlemen. A question on your piping business, the Hakan Plastik
+acquisition. Does this business has a lower EBIT margin or any line or above that of the piping division that we expect
+for the second half any acquisition costs or kind of integration provisions?
+Then the second question is could you provide us any color on your customer split in your Automotive division,
+particularly for the passenger car business? And yeah, basically that's it. Thank you.
+<A - Yves Serra>: Thank you very much. Hakan Plastik has a slightly lower EBIT margin, yes, as GF Piping Systems
+so far. But I mean, the name of the game for us, like for all the other acquisitions, is to integrate Hakan Plastik into our
+network and to increase this margin. I mean that they're not too far right away -- and right now from the margin of
+Piping Systems, so it should be feasible within the next few years.
+Regarding the customer splits of GF Automotive, I mean, GF Automotive depends on about 30, 35 customers
+worldwide, so customer split is Germany about 80%, or our German customers about 80% including all the names, all
+the well-known names in Germany in truck and cars, and then the rest is split in between Japanese, Korean, French, and
+Chinese manufacturers of cars. Not to mention the Swedish manufacturers of cars and trucks.
+For the third question, I'll leave Roland Abt to answer. The third question was about the – if I remember well...
+<Q - Fabian Häcki>: Any integration costs you expect to have.
+<A - Yves Serra>: Integration costs in the second half, right?
+
+Page 10 of 11
+
+Company Name: Georg Fischer
+Company Ticker: FI/N SW
+Date: 2013-07-17
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 1,921.27
+Current PX: 468.5
+YTD Change($): +113.86
+YTD Change(%): +32.105
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 36.913
+Bloomberg Estimates - Sales
+Current Quarter: N.A.
+Current Year: 3653.000
+
+<Q - Fabian Häcki>: Yeah.
+<A - Roland Abt>: Well, there should not be significant integration costs. Of course, when the integration starts, we
+will have certain costs, but Hakan Plastik is really a company of its own. We had no activities in Turkey so far. So there
+is no overlap. So there is no, let's say, we don't have to merge two companies to restructure our activities down there,
+but we take over a standalone activity in Turkey without big changes. So the cost should be minimum.
+<A - Yves Serra>: Yeah. Maybe a further comment on this. For us, what is important is the products of Hakan Plastik
+are fully complementary with our own. In other words, we will, right away never to sell these products together with
+our own products in countries like Middle East, Eastern Europe, Russia, India. That's why one of the reasons we bought
+Hakan Plastik, because products are complementary.
+<Q - Fabian Häcki>: Okay. Thank you.
+
+Operator
+Gentlemen, there are no more questions at this time.
+
+Yves Serra
+Okay. If there are no more questions, I would like to thank you very much for participating and thank you very much
+for all the questions and I wish you a good day. Thank you.
+
+Operator
+Ladies and gentlemen, the conference is now over. Thank you for choosing Chorus Call and thank you for participating
+in the conference. You may now disconnect your lines. Good bye.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2013, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.
+
+Page 11 of 11
+
+

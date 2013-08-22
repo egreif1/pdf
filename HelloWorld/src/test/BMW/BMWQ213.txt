@@ -1,0 +1,784 @@
+Company Name: BMW
+Company Ticker: BMW GR
+Date: 2013-08-01
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 46,653.65
+Current PX: 72.45
+YTD Change($): -.48
+YTD Change(%): -.658
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 7.836
+Bloomberg Estimates - Sales
+Current Quarter: 19425.000
+Current Year: 78277.792
+
+Q2 2013 Earnings Call
+Company Participants
+• Maximilian Schöberl
+• Norbert Reithofer
+• Friedrich Eichiner
+
+Other Participants
+•
+•
+•
+•
+•
+•
+
+Fraser E. Hill
+José Asumendi
+Jochen Gehrke
+Laura I. Lembke
+Christian Ludwig
+Philippe J. Houchois
+
+MANAGEMENT DISCUSSION SECTION
+Maximilian Schöberl
+Good afternoon, ladies and gentlemen. I would like to welcome you all to the telephone conference of BMW AG on the
+second quarter 2013. With me today are Dr. Norbert Reithofer, Chairman of the Board of Management of BMW AG,
+and Dr. Friedrich Eichiner, our CFO.
+First, Dr. Reithofer will give you all an update on the business performance during the first six months of the year. Dr.
+Eichiner will then take you through our financial results for the second quarter and half-year. Afterwards, we will have
+time for our Q&A session.
+Dr. Reithofer, please go ahead.
+
+Norbert Reithofer
+Good afternoon, ladies and gentlemen. Today more than ever before our industry is undergoing dramatic change. New
+technology, business fields, and service offerings for customers are opening up new perspectives and growth
+opportunities. This fundamental transformation requires innovative strength, flexibility and new ways of thinking, but
+most of all, it requires the determination to act. It's a question of finding the right balance between evolution and
+revolution and being innovative in both.
+Three days ago, we showed you what we mean by revolution when we unveiled the BMW Group's first all-electric
+vehicles in New York, Beijing, and London simultaneously. With the BMW i3, we are tailoring sheer driving pleasure
+to suit the needs of cities and megacities in the 21st century. For us, the BMW i3 is just the first step in the revolution.
+The next step comes in 2014. That's when our BWM i8 plug-in hybrid with a three-cylinder petrol engine reaches the
+market.
+So what makes BMW i a game-changer in the automotive industry? First, the BMW i3 was designed around an electric
+power train. Second, the BMW i3 consists of a unique vehicle concept that comprises a live module and a drive
+module. Third, in BMW i3 production, resources are used efficiently, powered by energy generated from wind and
+
+Page 1 of 13
+
+Company Name: BMW
+Company Ticker: BMW GR
+Date: 2013-08-01
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 46,653.65
+Current PX: 72.45
+YTD Change($): -.48
+YTD Change(%): -.658
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 7.836
+Bloomberg Estimates - Sales
+Current Quarter: 19425.000
+Current Year: 78277.792
+
+water. I3 production is venturing into entirely new territory.
+Fourth, the BMW i3 is our response to the ever-tougher CO2 requirements set by many countries around the world. It's
+also a solution for increasing regulations facing individual mobility in many large cities. Fifth, the BMW i3 is premium
+through and through, and premium is and always will be at the heart of what we do at the BMW group.
+One daily newspaper here in Germany wrote the following about the BMW i3. Ultimately, the BMW i3 seems so well
+balanced, it's as if the last 125 years in the auto industry have merely been paving the way for this truly emotional yet
+totally sensible car. A British newspaper said this about the i3: Judged on its innovative style alone, which is
+refreshingly modern and unlike any other car on sale today, at long last an electric car that is desirable. Positive media
+response like these will start the process of people overcoming their reservations about electric mobility.
+The BMW i3 is a true BMW and it drives like a true BMW. It reaches the European market in November of this year,
+and that's when our customers will get to enjoy its unique driving experience. For us, the decision to enter the world of
+electric mobility was made with our long-term business success in mind. It's part of our strategy that will take us to
+2020.
+Our development work on future drive systems is guided by a clear maxim: intelligent spectrum. The same is true of
+our path towards zero emissions mobility. For urban areas, we have the electric BMW i3. For slightly longer distances,
+we have our plug-in hybrids, such as the BMW i8. And for long distances, we are looking into solutions such as fuel
+cell-powered electric motors. In the future, options like this will offer short refueling times and enable long distance
+travel with zero emissions.
+In terms of technologies, we are, of course, cooperating with the Toyota Motor Corporation. Here, too, we believe
+purpose-built vehicle architecture is the right approach for a serious vehicle in the future. This is the same as our BMW
+i family today.
+And then of course, there is evolution. We continue to enhance the efficiency of our conventionally powered vehicle
+range with our EfficientDynamics program. Since 1995, the BMW Group has reduced its fleet CO2 emissions faster
+than any other European car company. At the moment, our customers can choose between 36 models with 120 grams
+CO2 per kilometer or less. Our fleet average currently stands at 138 grams CO2 per kilometer. By 2020, the E.U. has
+set an average of 95 grams CO2 per kilometer.
+That means we must continue investing in the electrification of our vehicles. But in order to do so, we need to remain
+profitable. We want to continue our success in the current business year. Our goals for 2013 are as follows: new record
+sales at group level, a pre-tax profit similar to the previous year's level, an EBIT margin for the automotive segment
+within our stated target range of 8% to 10%.
+These targets reflect what we mean by premium. After the first six months of 2013, we remain on track to achieve our
+goals for the year as a whole. However, our forecast assumes that global, economic and political conditions do not
+worsen significantly.
+Where do we stand after the first six months? In the first half of 2013, we sold more than 954,000 vehicles around the
+world. That's up 6% on figures for the first half of 2012. We sold more BMW Mini and Rolls-Royce vehicles than ever
+before in this period.
+Pre-tax profits reached more than €4 billion, which is very similar to what we achieved in the same period last year.
+Net profit rose to more than €2.7 billion. The EBIT margin in our automotive segment currently stands at 9.8%, at the
+upper end of the 8% to 10% profitability range we are aiming for. However, business and political conditions remain
+uncertain and highly volatile. Our sales figures reflect this fact, and the development was uneven.
+In America and Asia, sales were up in the first half of this year. In Europe, sales remain at a similar level to last year's.
+Conditions remain challenging in a number of European markets. A tougher economic climate means tougher
+competition in the premium segment, as elsewhere. We are countering these challenging developments with attractive
+new models.
+
+Page 2 of 13
+
+Company Name: BMW
+Company Ticker: BMW GR
+Date: 2013-08-01
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 46,653.65
+Current PX: 72.45
+YTD Change($): -.48
+YTD Change(%): -.658
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 7.836
+Bloomberg Estimates - Sales
+Current Quarter: 19425.000
+Current Year: 78277.792
+
+Besides the forthcoming all-electric BMW i3, what can our customers look forward to in the second half of this year?
+The updated BMW 5 Series, the new BMW X5, the BMW 4 Series Coupe, and the Rolls-Royce Wraith.
+Ladies and gentleman, at the BMW group we have always taken a long-term approach. That's why we are making some
+major investments right now to ensure we continue our success in the future. These investments are focused on new
+technologies, facilities, new models, and innovative mobility services. The investments will keep us strong as an
+innovator and secure market share as well as secure jobs in the future. We are making these decisions with careful
+consideration. We prioritize our projects according to how much they secure the future success of the BMW Group.
+This gives us the ability we need to realize ground-breaking ideas like the BMW i.
+Meanwhile, in our core business, we continue to promote evolutionary advances. 2013 and 2014 will see 25 new
+models reach the market. Ten of them are completely new. In the 15 years between 2005 and 2020, our model range
+will have tripled in size.
+In 2014, BMW Motorrad will also enter the world of electric mobility with the BMW C evolution electric scooter. At
+the same time, we are refocusing BMW Motorrad on urban mobility. In 2014, the BMW Active Tourer will come to
+the market. It will be the first BMW with front-wheel drive. MINI and BMW will introduce modular three- and
+four-cylinder petrol and diesel engines, allowing us to benefit from economies of scale.
+All this goes to show that our business is becoming increasing complex, the markets are becoming more volatile, and
+the political arena is more demanding than ever. But at the BMW Group, challenges are what drive us. We intend to
+remain industry leaders. That's why we are ushering in a new era of mobility with BMW i. Clearly, we plan to continue
+being the architects of our own future. That's what makes BMW premium. Thank you very much.
+
+Maximilian Schöberl
+Thank you very much, Mr. Reithofer. And now, Mr. Eichiner, please go ahead.
+
+Friedrich Eichiner
+Ladies and gentlemen, good afternoon from my side as well.
+The second quarter was characterized by a more difficult situation in European markets. Nevertheless, the BMW Group
+posted record sales and was successful overall, thanks primarily to our overseas markets. Profitability remains within
+our target range, despite the previously announced major investments in growth and future projects.
+Retail sales reached a new high of more than 506,000 units in the second quarter, an increase of 6.6% over the same
+period last year. The BMW Group benefited from its young and attractive model line-up, especially the BMW brand,
+which has a strong position in all vehicle classes. Sales of our MINI and Rolls-Royce premium brands also performed
+to plan. Our core 3 Series, 5 Series, 6 Series and 7 Series all remain segment leaders. Our SAV models are also in
+strong demand. The strongest growth was reported by the X1, which is also number one in its segment.
+Our broad global presence was another advantage. We were able to offset declining demand in Europe with strong
+gains in Asia and the Americas, in particular, and reallocated vehicles accordingly. However, we cannot fully escape
+the challenges in our home region. Like other manufacturers, we are experiencing competitive pressure, especially in
+the [ph] southern (13:08) European markets.
+Even Germany saw a decrease of about 8% in new vehicle registrations. In Western Europe, only the UK performed
+well. The premium segment in France and Italy contracted, also impacting our premium brands. We maintained the
+same level of sales in the European regions as last year. Overall, market development in Western Europe was much
+weaker than previously forecast. We no longer expect to see a reversal of this trend in 2013 and are preparing to face a
+persistently difficult market environment.
+
+Page 3 of 13
+
+Company Name: BMW
+Company Ticker: BMW GR
+Date: 2013-08-01
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 46,653.65
+Current PX: 72.45
+YTD Change($): -.48
+YTD Change(%): -.658
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 7.836
+Bloomberg Estimates - Sales
+Current Quarter: 19425.000
+Current Year: 78277.792
+
+We benefited from sales growth outside of Europe, especially in the United States and China. Recovery of the U.S.
+economy and housing market gave demand a boost. In the first six months of the year, we delivered more than 173,000
+vehicles to customers in the U.S., an increase of 8.9%. The Financial Services segment also profited from growth in
+this traditionally strong leasing market.
+In China, we sold more than 183,000 vehicles, an increase of 15%. The gains in China came mostly from locally
+produced models. In the second half of the year, we expect to see further growth from the 3 Series GT and the new X5.
+Over the summer months, we predict strong growth in our two largest markets, the U.S. and China. Although the
+current product momentum also reflects base effects, we expect growth to be sustained throughout the second half of
+the year.
+At group level, revenues climbed to more than €19.55 billion in the second quarter. Our quarterly earnings before taxes
+reached €2.03 billion, a 2.8% increase over the same quarter last year. We continued our previously announced
+expenditures and investments in our production network in the second quarter.
+The group's R&D costs totaled €1 billion for the second quarter, a slight increase over the previous year. Our R&D
+activities continue to focus on the development of new models, alternative drive trains, and light-weight technologies,
+as we strengthen our leading position in these fields. The R&D ratio for the first half-year stood at 5.3% of group
+revenues. This is in our target range of 5% to 5.5% of revenues. As previously announced, we will exceed our target
+range for the year as a whole.
+The BMW Group's capital expenditure for the first six months totaled €2.4 billion. This represents an increase of 60%
+over the same period last year. Preparations for series production of the BMW i3 are now completed. We plan to
+continue expanding our entire vehicle portfolio and paving the way for the next phase of growth.
+Right now we are also preparing for this growth in our plants, where our capacity utilization is already very high. This
+expansion is crucial to the vehicle projects planned for the coming years. We also continue to invest in developing new
+business areas.
+The CapEx ratio for the first half-year stood at 6.4% of revenues. As previously announced, we will exceed our CapEx
+target of below 7% of revenues over the full year. Capital expenditure will rise, as usual in the second half of the year.
+As per 30 June, Group liquidity totaled almost €11 billion. Our liquid asset position therefore, remains solid.
+Now let's move on to the Automotive segment. The Automotive segment had revenues of €18.2 billion in the second
+quarter. EBIT for the Automotive segment totaled almost €1.76 billion. As previously announced, the Automotive
+segment also made up-front investments in future projects. Over the full year, we expect an incremental burden of
+around €1 billion. The first half of 2013 was impacted to a lesser extent by this, which benefited earnings development
+in the second quarter. The planned expenditures will be accrued, for the most part, in the second half of the year.
+Our profitability for the second quarter of 2013 was at the upper end of our target range of 8% to 10%. The EBIT
+margin for the segment stood at 9.6%. Dynamic business trends within the segment generated a strong operating cash
+flow and a free cash flow of more than €1 billion for the second quarter. Free cash flow for the first six months of the
+year totaled almost €1.7 billion.
+We still expect to generate a strong free cash flow for 2013. Also, it is likely to remain under €3 billion for the full
+year. This is primarily due to a significant increase in capital expenditure, especially in the second half of the year. As
+per 30 of June, net financial assets in the Automotive segment amounted to almost €13.3 billion.
+Ladies and gentlemen, the Financial Services segment continued its positive business performance in the second
+quarter. Our growing automotive business and strong demand for financial services are generating sustained growth in
+this segment. Financial Services concluded more than 388,000 leasing and financing contracts with retail customers in
+the second quarter. This represents a 12.2% increase over the same period last year.
+In Europe, the main gains were in the UK, with growth also in the Americas and the Asia Pacific region. As per the 30
+of June, the total number of service contracts in place had risen to 3.98 million. Thanks to this strong growth, Financial
+Services generated a quarterly pre-tax profit of €467 million, an increase of 8.4% year on year. The percentage of new
+
+Page 4 of 13
+
+Company Name: BMW
+Company Ticker: BMW GR
+Date: 2013-08-01
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 46,653.65
+Current PX: 72.45
+YTD Change($): -.48
+YTD Change(%): -.658
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 7.836
+Bloomberg Estimates - Sales
+Current Quarter: 19425.000
+Current Year: 78277.792
+
+BMW vehicles leased or financed by the Financial Services segment reached 44.5% for the year to the end of June.
+This increase of 5.8 percentage points compared to the same quarter last year is mainly due to new businesses in the
+U.S. and China.
+The risk situation is largely unchanged from last quarter. As expected, credit risk has remained stable in Asia and the
+Americas. However, the situation is still difficult in Southern and Western European markets. Although we do not
+anticipate any significant deterioration over the short-term, still, provisions have been made to cover potential risks.
+The used car business remained stable in the Americas and Asia in the second quarter. However, prices decreased
+slightly in a number of European markets, increasing pressure on residual values. We expect market performance to
+remain uneven during the second half of the year and have factored this potential volatility and pressure in the
+European markets into our risk provisions.
+Now let's take a look at our Motorcycle segment. We delivered more than 40,000 BMW motorcycles to customers in
+the second quarter of 2013, a plus of nearly 16% over the same period last year.
+In its anniversary year, BMW Motorrad reported the best quarterly and half-year sales in its 90-year history. The
+segment's strong sales growth was generated by new models. Together, the new F 800 GT Special Anniversary models
+and the new R 1200 GS beat the overall downward market trend.
+The growth of BMW Motorrad in the first half of the year mainly came from the U.S., Brazil, and Japan. But BMW
+Motorrad also made gains in its primary market of Germany and other Western European countries. Second quarter
+revenues climbed to €475 million, with an EBIT of €46 million for the same period. BMW Motorrad has a young and
+attractive model line-up and is expected to further develop sales in the second half of the year.
+Ladies and gentlemen, the BMW Group is currently on course to meet its guidance for the full year. We accomplished
+this despite deterioration in the situation in Europe and Western European markets in particular. This demonstrates our
+strength. We continue to profit from our robust strategic alignment, our strong premium brands, and our undisputed
+position as an innovation leader.
+The BMW Group is investing heavily in its future this year. These investments are vital to the Group's continued
+profitable growth over the long-term. We will certainly feel the impact of the expenditures and up-front investments in
+future projects I mentioned earlier over the rest of the year. This includes market launch and ramp-up costs for the
+BMW i3 and other new models in the second half of the year.
+We continue to benefit from our attractive product portfolio and global market presence. The BMW Group is aiming
+for a new sales record for the full year as long as markets in Asia and the Americas continue to perform well and there
+is no further deterioration in European markets.
+The BMW Group is targeting pre-tax earnings for the full year on a similar scale to that reported in 2012. We are also
+maintaining our target range of 8% to 10% for EBIT margin in the Automotive segment. The target for the Financial
+Services segment is a return on equity of at least 18%. We also expect the positive business development in the
+Motorcycle segment to continue.
+We are working hard to continue our successful course and confirm these targets, assuming that economic and political
+conditions do not worsen significantly. In other words, the BMW group remains geared towards sustainable
+profitability and growth. Thank you.
+
+Maximilian Schöberl
+Thank you very much, Mr. Eichiner. Ladies and gentlemen, the line will shortly be open for questions. Please wait for
+some technical advice.
+
+Q&A
+Page 5 of 13
+
+Company Name: BMW
+Company Ticker: BMW GR
+Date: 2013-08-01
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 46,653.65
+Current PX: 72.45
+YTD Change($): -.48
+YTD Change(%): -.658
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 7.836
+Bloomberg Estimates - Sales
+Current Quarter: 19425.000
+Current Year: 78277.792
+
+Operator
+[Operator Instructions] The first question comes from Mr. Fraser Hill, Bank of America.
+<Q - Fraser E. Hill>: Good afternoon. It's Fraser Hill from Bank of America. I've got two questions that I wanted to
+put to you. Particularly on pricing, could you just give us a little bit more color around pricing? I know that you had
+talked on conference calls earlier in the year about 0.5% to 1% decline in pricing likely for this year. I just wondered if
+you could give us a little more color on that. Are we now looking further towards the bottom end of that range? Would
+it be fair to interpret your comments today that perhaps there's been a sequential step-down again in the second quarter
+in pricing? So that was the first question.
+And then the second question onto China, you've obviously talked about the locally produced models performing well
+for you, but you had a pretty phenomenal June for your imported models. I think you were up 50% or something for
+imported models for June on your own data. Why was June quite so strong? What was the dynamic behind that
+growth? Thank you.
+<A - Maximilian Schöberl>: Thank you very much, Fraser Hill. The answer will come from Mr. Eichiner. Mr.
+Eichiner?
+<A - Friedrich Eichiner>: Your first question about the pricing, so our guidance was that the impact for the whole
+year will be between 50 and 100 basis points. Actually I think it's closer to the 100 basis points, and that's actually the
+level of sales support that we have to give in order to maintain our momentum in Europe. We don't think that it will
+further worsen in the second half of the year, but we don't see any relief at the same point in time. So it's close to 100
+basis points that would be, possibly, the effect, especially driven, as I said, by the European markets.
+Then your question about the second quarter in China, we basically – we redistributed costs from the weaker European
+regions into China. That was done in the first quarter. Then they were ready for sales in the second quarter. We started
+a bit more careful in the first quarter in China because it was not very clear where the market would go to. And, as you
+already said, the recovery in the European markets didn't happen. So, we had to react and one of the reactions was, for
+example, attractive products, like the X3, were reallocated to the Chinese market. And that gave us a certain
+momentum then in this market in the second quarter. That was the background of this development.
+<Q - Fraser E. Hill>: Okay. Thanks. Could I get a follow-up on the pricing point? You said you probably still needed
+to support pricing a little bit more. Is that because, just because market deteriorated to a certain level that you need to
+use pricing to maintain your market share? Or is it more a response to what you've seen from competitors who,
+perhaps, have already been a bit more aggressive with market share and now you need to follow suit?
+<A - Friedrich Eichiner>: At the end of the day, it's both, right. And it depends on the segment you're talking about,
+right. But in a nutshell, it's both, and the outcome is that we at least have now, compared to last year, a higher support
+level of 50 basis points to 100 basis points.
+<Q - Fraser E. Hill>: Thank you.
+<A - Maximilian Schöberl>: Thank you very much, Fraser Hill. Next question, please.
+
+Operator
+The next question comes from Mr. José Asumendi, JPMorgan.
+<Q - José Asumendi>: Thank you. Thank you very much. Three items please, the first one, starting off with
+production, could you please confirm production will be higher in the second half versus the first half? Second, could
+you please advise on the additional expenses we should expect on the labor side in H2, as well as launch costs for the i3
+for the launch? And then finally, I wanted to confirm the additional burden for [ph] future one (29:29) costs net of cost
+savings, they're going to be around €1 billion additional headwind this year. How should we think about next year?
+Will there still be a year-on-year headwind? I know that the figure will be lower, but will it still be a year-on-year
+
+Page 6 of 13
+
+Company Name: BMW
+Company Ticker: BMW GR
+Date: 2013-08-01
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 46,653.65
+Current PX: 72.45
+YTD Change($): -.48
+YTD Change(%): -.658
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 7.836
+Bloomberg Estimates - Sales
+Current Quarter: 19425.000
+Current Year: 78277.792
+
+headwind for the P&L? Thank you.
+<A - Maximilian Schöberl>: Thank you very much, José Asumendi. We start in the first part of the question with Mr.
+Eichiner.
+<A - Friedrich Eichiner>: Well, first question was about our production plan, and absolutely right, what you said. We
+are expecting a stronger production momentum in the second half of the year, so that we'll have a higher volume. There
+are many reasons behind, first of all, the launch of new products, like the new X5, like the 4 Series, that will be brought
+to the market. And then we are preparing growth for 2014 as well. In order to get that, you need to have production in
+place. And that's basically the reason that the momentum in the second half of the year will be higher.
+Your last question was about the headwind coming from the extra amount of CapEx, and of course, we need to protect
+our future position. The €1 billion is still the number. We think it's right, and we think we will get a headwind in 2014
+in this item as well, but not as high as it is this year. So it'll level out then to a certain extent.
+And then your second question was cost. I mean, you raised the question about the personnel costs. I mean basically,
+the head count didn't move up a lot in the BMW Group during the year, but we had wage increases and that definitely
+has an implication on our cost base, which is a mid-three digit million number we have to consider as a headwind.
+<Q - José Asumendi>: Should we expect anything electric costs, launch costs?
+<A - Friedrich Eichiner>: Yeah, a launch cost, we will have additional launch costs for the i3, for the introduction of
+the i3 at the end of the year. That will happen possibly in the fourth quarter.
+<Q - José Asumendi>: And roughly how much [indiscernible] (31:47)?
+<A - Friedrich Eichiner>: Well, I think we don't have the number here now, the exact number for the i3, but it will be
+a lower number.
+<Q - José Asumendi>: Okay. Thank you.
+<A - Maximilian Schöberl>: Okay. Thank you very much. Next question please?
+
+Operator
+The next question comes from Mr. Jochen Gehrke, Deutsche Bank.
+<Q - Jochen Gehrke>: Yes, good afternoon, just three quick follow-ups, please. First of all, on this H2/H1 [ph] Auto
+Con (32:16) cost, if I didn't miss it. Could you just help us understand how this incremental billion is roughly splitting
+between second half and first half, just on the cost side? And then also, you said production momentum is going to
+accelerate. In the first half, you already produced 50,000 units more than what at least you showed on your retail. I
+understand the preparation for growth, but is this about the full year what you're looking for? Or should we expect that
+production continues to outgrow, in nominal terms, your sales level?
+Then secondly, just on China, there's been a lot of press and now with your partner and the license granting for the
+production that seems to be delayed. Do you regard this as usual noise in China? Or do you think that there is a risk that
+increasingly the political sentiment towards luxury cars is turning a bit, and that we might be looking forward to a more
+difficult market, environmentals and regulatory wise?
+And then finally, just on i3, I think the selling price of €35,000 that you – at the entry, surprised many, certainly on my
+side. Could you just help us understand, was this the reflection that your costs came down quicker? Was this what you
+always planned? And can you just tell us what we should be thinking commercially, about volumes, i3? I know it's very
+early days, but what's been the reception in terms of orders and so on? Thank you.
+<A - Maximilian Schöberl>: Okay. Thank you very much, Jochen Gehrke. I think we start with the first part of your
+question, with the E3 and with the price, Mr. Reithofer and then Mr. Eichiner.
+
+Page 7 of 13
+
+Company Name: BMW
+Company Ticker: BMW GR
+Date: 2013-08-01
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 46,653.65
+Current PX: 72.45
+YTD Change($): -.48
+YTD Change(%): -.658
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 7.836
+Bloomberg Estimates - Sales
+Current Quarter: 19425.000
+Current Year: 78277.792
+
+<A - Norbert Reithofer>: Regarding the BMW i3, let me start with the cost side. I mean, we see the BMW i3 as a
+long-term investment and we are at the moment, at during the next five to seven years, in the first industrialization
+loop. And we see it as a preparation phase for the Group as a whole, focused on the year 2020 and on the year 2025. So
+from a cost point of view, I think it will come down over the years, starting in 2014, but not suddenly, definitely not.
+And as I said it to, Mr. Gehrke, this is a long-term investment and we are focusing with the BMW i3 already on the
+year 2020, and the reason we all know, tougher CO2 regulations in the United States, in the European Union, and in
+China.
+And as you see, the year 2025, then I said on Monday in New York, to achieve, let me say a figure of 75 grams CO2
+per kilometer, the BMW Group needs roughly 30% plug-in hybrids and petro-electric vehicles as part of our total
+volume. That is how we see the BMW i3. The price, was it a surprise? Not for us.
+<A - Maximilian Schöberl>: Thank you very much. Second part, Mr. Eichiner.
+<A - Friedrich Eichiner>: Okay. I'd also like to come back to your first question about the incremental billion split. So
+more or less, at least two thirds of those costs in this headwind will come in the second half of the year, though. That is
+not an equal split between first and second. Most of it is coming in the second half.
+Production, well you have to see that we are introducing new models like the whole fleet of 4 Series models. We have
+to replace the X5, and you have to ramp up pipelines, if you do though, so. And this will take place now in the second
+half of the year, so production has to grow. Otherwise, we are not ready for certain growth in the first half of 2014. So
+we think, aligned with this, we will see a slightly increasing working capital driven by inventory in the second half of
+the year, but not much.
+And then, your third question was about China. We had it already in the morning. I think it's kind of a
+misunderstanding from our perspective. It was driven by information being given by the Chinese Ministry of
+Environmental Protection. They are publishing all the [ph] broad checks (36:53) and the applications, and there was a
+misunderstanding. So it was that in Chinese, that our application was returned because they had additional questions
+and we had to deliver further data. And it was translated rejected. It was not rejected. It was returned. So now we have
+to give them further information, and then this is a normal process. We are waiting for the approval. We don't see any
+obstacles there. So that's basically the background.
+And if you look at Tiexi, Tiexi is the most sustainable vehicle plant in China. You know our targets, and we will
+deliver those. For example, in the motorcycle, we are using 90% of the water will be recycled. So there is really the
+latest environmental technology in place in this plant, and we don't see any reasons that we will not meet the
+environmental standards the Ministry is giving us. So that's more or less a background and it was a bit of noise made
+out of this. A misunderstanding. Thank you.
+<Q - Jochen Gehrke>: Thank you.
+<A - Maximilian Schöberl>: Thank you very much. Next question please?
+
+Operator
+The next question comes from Miss Laura Lembke at Morgan Stanley.
+<Q - Laura I. Lembke>: Yeah, good afternoon, and thank you for taking my questions. I also have three please, and
+the first one is on your average selling prices. I noticed that they've been a little weaker in H1, and I guess that's mostly
+driven by the, let's say, more adverse mix in China or higher share of the JV sales. I'm just wondering is this an affect
+that we should expect going forward also in the second half? Or would you say that there will be a little bit of a reversal
+here?
+And then secondly, more generally on the 7 Series, the sales here remain pretty weak, and I'm just wondering again, is
+this just something to do with where the 7 Series is in its lifecycle? Or would you say that there is maybe a structural
+shift going on in the segment towards other segments? And also in this respect, are you already seeing an impact on
+
+Page 8 of 13
+
+Company Name: BMW
+Company Ticker: BMW GR
+Date: 2013-08-01
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 46,653.65
+Current PX: 72.45
+YTD Change($): -.48
+YTD Change(%): -.658
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 7.836
+Bloomberg Estimates - Sales
+Current Quarter: 19425.000
+Current Year: 78277.792
+
+your order book from the new S Class launch? And then just lastly, I was wondering if you could comment a little bit
+on the development of the German car market, and if possible, also on how the individual segments are developing
+here, so basically retail and the corporate side. Thank you.
+<A - Maximilian Schöberl>: Thank you very much, Laura Lembke. Now we start first of all with Mr. Eichiner and the
+first part of the question, yes.
+<A - Friedrich Eichiner>: Okay. Your question about the selling prices, well basically, we don't see that there will be
+a big, well, change, to the average prices we are. I mean, the momentum on the local production side in China is strong
+and will stay strong. We will – we have to move first the new models in, for example, the new X5. The X5 will come
+late in the year, so selling will start in 2014 only. So we have now, this year, a kind of intermediate situation driven by
+the portfolio changes that are relevant for the imported volume. Now that is more or less the background, and this will
+be then, well, washed out with the beginning of 2014, when the new X5 is available and the new 4 Series of the cars are
+available. So this then will definitely make a difference.
+Now on your question about the 7 Series, basically, if you look around the world, 7 Series sales in Europe clearly under
+pressure, but the whole segment is heavily under pressure. We all know the reasons why. In the U.S., it's like, it's
+planned and adequate to the life cycle position. And then we have the strongest market, that is China. And in China, in
+the beginning there was a – first of all, there was a bit of over supply last year, we have to admit. And the whole
+segment was under distress. So we had to, well, cut back a bit sales supply on the 7 Series in order to give the segment
+a certain relief, which happened now in the first half of the year. And then we saw the market for the 7 Series more
+normalizing, as we expected it.
+Your question about influences of the S Class, it's too early. It's not yet full available, especially not in Chinese market,
+and so that's really too early. It's more a segment issue, I would say, right.
+<A - Maximilian Schöberl>: Thank you very much. Your last question, Laura, about German car markets will be
+answered by Mr. Reithofer.
+<A - Norbert Reithofer>: If you see Germany, then first of all, let's focus on 2013. Germany's total passenger car
+market is expected to shrink by about 5.9%, our opinion, to approximately 2.9 million units. And how we see it, retail
+and corporate demand is becoming increasingly uncertain, and for us, only one reason behind. It is as a result of the
+euro crisis. And then, if you see Germany, you have to see a first price level and a second price level in Germany. And
+of course, we prefer to operate in the first price level. That means, first, profitability for the BMW Group in the German
+market and second, volume, and not vice versa.
+And if I see the German market on a medium- and long-term perspective, then the total market will also remain
+stagnant over the medium-term. However, it will shrink over the long-term due to demographic trends. That is how we
+see Germany short-term in 2013 and medium-term. And as I said, at the moment, we have a tough competition in
+Germany, and we have to see in Germany of course, not just the volume development of the car companies, we have to
+see, do they operate mainly in the first price level or do they operate mainly in the second price level? It makes a huge
+of a difference.
+<Q - Laura I. Lembke>: Okay. Thank you.
+<A - Maximilian Schöberl>: Thank you very much. Next question, please?
+
+Operator
+The next question comes from Mr. Christian Ludwig, Bankhaus Lampe.
+<Q - Christian Ludwig>: Yes. Good afternoon. Thank you for taking my questions, two quick ones here. First of all,
+on your admin costs, I have seen a significant increase in Q2. Maybe you could explain what is behind that. And
+secondly, going back to China, if I look at your equity result, there was a huge jump in that figure and also in Q2. Is
+that basically a function of the better sales in China, or all the pricing in China? [ph] Will you give (43:44) a little bit
+
+Page 9 of 13
+
+Company Name: BMW
+Company Ticker: BMW GR
+Date: 2013-08-01
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 46,653.65
+Current PX: 72.45
+YTD Change($): -.48
+YTD Change(%): -.658
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 7.836
+Bloomberg Estimates - Sales
+Current Quarter: 19425.000
+Current Year: 78277.792
+
+more color, what happened there? Thank you.
+<A - Maximilian Schöberl>: Thank you very much. Mr. Eichiner?
+<A - Friedrich Eichiner>: Well, in the company, actually, we are working in processes and structures in order to
+compensate the pressure that's coming from outside. One of the basic measures we have taken was to restructure our
+whole IT organization in this company, and we centralized, more or less, the IT. That means that thousands of people
+had to be reallocated, and this has a cost implication as well. And that's what you see in the administrative expenses,
+and this is one of the reasons that they increased by more than 30%.
+Now your second question was China. Well basically, we have, this year, a strong momentum in the joint venture and
+the reason is, they have the younger products. We introduced the X1 on top of the already very new long version of the
+3 Series, and the 5 Series is still a good running car, so we have now a very strong portfolio in place, and that is selling
+very well. And that is the reason that we have this sales momentum on the local side.
+<Q - Christian Ludwig>: Just to clarify, for the administrative cost, so [ph] we should see (45:24) a decline in the
+second half of the year, because this is a – basically a one-off for the IT restructuring?
+<A - Friedrich Eichiner>: Not because we did it recently, and that was one, in fact, was basically the reallocation of
+IT. The other is that we had, of course also, wage increases on the cost side, right, in the headquarters. So, [ph] other
+than the shift (45:51) and the wage increases, altogether is, at the end of the day, the effect, but the basic effect was IT.
+And next year, you will – then it will wash out. Then we have it in the basis, and then the incremental will be much
+lower. That's what we can say.
+<Q - Christian Ludwig>: Okay. Thank you.
+<A - Friedrich Eichiner>: You're welcome.
+<A - Maximilian Schöberl>: Thank you very much. Next question please.
+
+Operator
+The next question comes from Mr. [ph] Michel Ponssect with Tetbank. (46:15)
+<Q>: [ph] Yes, Michel Ponssect with Tetbank (46:15). Good afternoon. I have one question regarding your
+performance in the financial service division. You mentioned in your speech, Mr. Eichiner, that the penetration of the
+percentage rate of cars financed by your financial services division increased to 44.5%. But that implies an increase to
+more than 50% in Q2. Maybe you can explain a bit more what's behind that development and if you could expect
+similar figures in the quarters to come. Thanks.
+<A - Maximilian Schöberl>: Thank you very much. Mr. Eichiner?
+<A - Friedrich Eichiner>: Well, what we see now, that two markets are really pulling when it comes down to
+financial services. The most important one is U.S., and in the U.S. market, we have a much higher penetration rate than
+average, so it's more than 70% there, so. And the growth we generated in the U.S. market in the second quarter has
+driven the overall penetration up. That's one reason.
+The second is that we are now going away from the lower penetration rates in China. In our Chinese business,
+penetration rate is picking up as well, and this is the second reason why, overall, we are at a level of 44.5%.
+[ph] And on your question (47:26) going forward, going forward, I don't see that we will maintain 44.5%. I believe it
+will be more around 40% going forward.
+<Q>: A follow-up, if I can. In China, is that – are customers more looking for financing or leasing?
+<A - Friedrich Eichiner>: We don't have operational leasing in place in China, so it's, those days, financing and
+financing only.
+
+Page 10 of 13
+
+Company Name: BMW
+Company Ticker: BMW GR
+Date: 2013-08-01
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 46,653.65
+Current PX: 72.45
+YTD Change($): -.48
+YTD Change(%): -.658
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 7.836
+Bloomberg Estimates - Sales
+Current Quarter: 19425.000
+Current Year: 78277.792
+
+<Q>: Okay. Thanks.
+<A - Friedrich Eichiner>: You're welcome.
+<A - Maximilian Schöberl>: Thank you very much. Next question.
+
+Operator
+The next question comes from Mr. [ph] Michael Tyndall, Barclays. (48:13)
+<Q>: Yeah, hi there. It's [ph] Mike Kendall from MacLeache (48:13). Thanks for taking my question, two if I may, the
+first, just touching again on China Financial Services. Could you just talk about whether or not the penetration rate
+you're talking about is dealer financing, or are we actually seeing customers now starting to take, basically, consumer
+financing?
+And then the second question, it's a bit of a more long-term question and a strategy question. You've stepped up your
+investment considerably over the last two years. You clearly have a view on 2020 and 2025. I'm just wondering, when
+we think about the return on that investment, how does it play out? Does it play out in your minds, as you take a lot
+more market share? Or do you find yourself in a position where you are better prepared than your competitors and
+subsequently, you have better margins than your competitors when 2020 arrives? I know it's kind of a tough question,
+but I'm just curious to know when we will see the return on that investment. Thanks.
+<A - Maximilian Schöberl>: Okay. Thank you very much. Mr. Eichiner?
+<A - Friedrich Eichiner>: Sorry. Now in China, the penetration is clearly driven, mainly driven, by dealer financing,
+but same point in time, the penetration rate in retail financing is picking up now. We started with a very – in the
+beginning, we started with a single-digit number and now we are on a double-digit number when it comes down to the
+penetration rate, but you have to see that we are still in a phase where we are growing our dealer network. We are
+adding dealer to the network. It will be a significant number this year as well, and that needs financing. And this is
+what is driving the business in China forward. So that's the first question.
+Your second question about the investments. I would say our investments, they are going in two directions. One
+direction is clearly capacity, because we are reaching now the limits of our capacity, and in order to allow the company
+to grow in the future, we need to make investments on the plant side. We need to ramp up our production capacities. So
+that's the first question. And clearly, those kind of investments, they will definitely have a good return. As long as our
+product portfolio is profitable, the return will be in place.
+The second part of it goes into lightweight construction, electrification, so to say, in technology and innovations. Now,
+my personal view on this is, if you do so, the company will be in a position not only to meet the requested targets, for
+example on the CO2 front, we will be able to differentiate ourselves as well from competition. And this, in the
+long-term, will possibly have an implication on the market share side. So this will work out for us, because our cars
+will be more attractive in the future, so we get a return from there as well. It's not as easy to calculate as the first part of
+it, but I absolutely believe we will get the return.
+<A - Maximilian Schöberl>: Thank you very much. Next question.
+
+Operator
+The next question comes from Mr. Philippe Houchois, UBS.
+<Q - Philippe J. Houchois>: Good afternoon. Two questions, please, the first one is, Dr. Eichiner, you explained to us
+the pricing seems to be kind of the worst end of your expectations. Is it fair to assume, though, when it comes to raw
+materials or currency, given the euro against dollar and renminbi, that those two drivers are probably moving towards
+
+Page 11 of 13
+
+Company Name: BMW
+Company Ticker: BMW GR
+Date: 2013-08-01
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 46,653.65
+Current PX: 72.45
+YTD Change($): -.48
+YTD Change(%): -.658
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 7.836
+Bloomberg Estimates - Sales
+Current Quarter: 19425.000
+Current Year: 78277.792
+
+the better end of your expectations, and acting as an offset?
+And the second question, for Dr. Reithofer is, as you've communicated a lot around the i3, we see a lot of discussions
+in the press about now the i3 versus Tesla. Tesla is of course a competitor. At the same time, though, how do you look
+at the situation? I think that the success of Tesla near-term is a great support to what you're trying to do in terms of
+acceptance of the electric car, and the market is kind of niche-y enough for a while. So what's your view? Do you see
+Tesla as a competitor, or do you see Tesla's success as a great support to your endeavors in that direction?
+<A - Maximilian Schöberl>: Thank you very much, Philippe, for your last question. I think the question about Tesla is
+the right question for the chairman. Mr. Reithofer, please?
+<A - Norbert Reithofer>: For us, of course Tesla is a competitor, but on the other hand, the results of Tesla are
+encouraging for us. Why? If you see the market for electric cars in the year 2012, we are talking about 93,000 vehicles
+worldwide. The estimate for the year 2013 is roughly 150,000 cars. So that means – and Tesla is part of it, and if you
+see the United States of America as one example, then in the first quarter of 2013, the growth rate in the U.S. market
+was roughly 135% for battery electric vehicles, and battery electric vehicles with range extender.
+And, as I said, I see the results of Tesla, as for us, very encouraging so because it opens up the market for electric
+vehicles, and now we are entering the market with our BMW i3 and next year with our plug-in hybrid BMW i8. And it
+will show as well to a lot of customers that electric cars and plug-in hybrids are a real alternative.
+And let me tell you one thing about the cost. If you go into the year 2020 or 2025, then it will cost you a lot to reduce
+the conventional cars from a CO2 level where we are at a moment to a much lower level. That means from a cost point
+of view, you are coming from both sides, electrification the one side, and you have to accept more and more costs as
+well in your conventional cars to bring them down from a CO2 point of view. So that means if the Tesla vehicles are a
+success, our i3 is a success, then it's really a breakthrough for electric cars.
+<A - Maximilian Schöberl>: Thank you very much. Second part, pricing on worst end of expectations. Mr. Eichiner?
+<A - Friedrich Eichiner>: I agree with you, Philippe. So pricing is still a critical issue for us, especially in Europe,
+fortunately, not in the other regions of the world. It's a European problem so far. And I think I said everything about
+what our expectation is this year, the 50 to 100 basis points overall.
+On the FX and raw materials side, so basically, we don't see at present a significant effect on earnings. I mean, the euro
+is still strong compared to the dollar, for example, though everybody thought that the dollar would be strong and the
+euro could weaken, but we don't see it day-by-day so nothing is coming so far from this side. Raw material prices on
+the other side are a bit under pressure, so overall there are some offsets here and the total net effect is more or less
+neutral.
+<Q - Philippe J. Houchois>: Thank you.
+<A - Maximilian Schöberl>: Thank you very much. Do we have one more question?
+
+Operator
+We currently have no further questions.
+
+Maximilian Schöberl
+Okay. Thank you very much. Ladies and gentlemen, thank you for joining in our call today and for your questions. On
+behalf of the BMW Group team, I wish you all a pleasant summertime. Thank you very much and bye-bye.
+
+Operator
+
+Page 12 of 13
+
+Company Name: BMW
+Company Ticker: BMW GR
+Date: 2013-08-01
+Event Description: Q2 2013 Earnings Call
+
+Market Cap: 46,653.65
+Current PX: 72.45
+YTD Change($): -.48
+YTD Change(%): -.658
+
+Bloomberg Estimates - EPS
+Current Quarter: N.A.
+Current Year: 7.836
+Bloomberg Estimates - Sales
+Current Quarter: 19425.000
+Current Year: 78277.792
+
+Ladies and gentlemen, thank you for your attendance. This call has been concluded. You may now disconnect.
+This transcript may not be 100 percent accurate and may contain misspellings and other inaccuracies. This transcript
+is provided "as is", without express or implied warranties of any kind. Bloomberg retains all rights to this transcript
+and provides it solely for your personal, non-commercial use. Bloomberg, its suppliers and third-party agents shall
+have no liability for errors in this transcript or for lost profits, losses, or direct, indirect, incidental, consequential,
+special or punitive damages in connection with the furnishing, performance or use of such transcript. Neither the
+information nor any opinion expressed in this transcript constitutes a solicitation of the purchase or sale of securities
+or commodities. Any opinion expressed in the transcript does not necessarily reflect the views of Bloomberg LP.
+© COPYRIGHT 2013, BLOOMBERG LP. All rights reserved. Any reproduction, redistribution or retransmission is
+expressly prohibited.
+
+Page 13 of 13
+
+
