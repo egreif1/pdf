@@ -4,7 +4,11 @@
 // Class for a company's PDF folder
 
 import java.util.ArrayList;
+import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
 
 public class Company {
 	
@@ -68,9 +72,98 @@ public class Company {
 		}
 	}
 	
+	public String getNameFromPath(String file)
+	{
+		String[] parts = file.split("/");
+		int end = parts.length;
+		return parts[end-1];
+	}
+	
+	//find all lines in files containing one or more of the terms
+	public void findLines(ArrayList<String> terms, String f)
+	{
+		// declare the file we are on
+		this.lines.add("Matches for file: " + this.getNameFromPath(f) + "\n\n");
+		
+		FileReader file = null;
+		try
+		{
+			file = new FileReader(f);
+		}
+		catch (FileNotFoundException e)
+		{
+			System.out.println(e.getMessage());
+			System.exit(1);
+		}
+		
+		BufferedReader br = new BufferedReader(file);
+		String line = null;
+		
+		try
+		{
+			line = br.readLine();
+		}
+		catch(IOException e)
+		{
+			System.out.println(e.getMessage());
+			System.exit(1);
+		}
+		while(line != null)
+		{
+			try {
+				line = br.readLine();
+			} catch (IOException e) {
+				System.out.println(e.getMessage());
+				System.exit(1);
+			}
+			
+			// now search the line
+			for (String t : terms)
+			{
+				String rx = t;
+				if (line != null && line.indexOf(rx)!=-1)
+				{
+					this.lines.add(line);
+					break;
+				}
+			}
+		}
+	}
+	
+	public void findParas(ArrayList<String> terms, String f)
+	{
+		// declare what file we are on
+		this.matches.add("Matches for file: " + this.getNameFromPath(f) + "\n\n");
+		
+		// now buffer though paragraphs and return the matching ones
+		FileReader file = null;
+		try{
+			file = new FileReader(f);
+		}
+		catch(IOException e)
+		{
+			System.out.println(e.getMessage());
+			System.exit(1);
+		}
+		
+		BufferedReader br = new BufferedReader(file);
+		
+		
+		
+		
+	}
+	 
 	public static void main(String[] args)
 	{
 		Company comp = new Company("/home/egreif1/Documents/Coding/PDF/test/");
+		ArrayList<String> terms = new ArrayList<String>();
+		terms.add("China");
+		comp.findLines(terms);
+		
+		for (String l : comp.lines)
+		{
+			System.out.println(l);
+		}
 	}
 
 }
