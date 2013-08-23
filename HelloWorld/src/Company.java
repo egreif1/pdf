@@ -203,6 +203,8 @@ public class Company {
 			return true;
 		else if (line.length()<60 && line.charAt(line.length()-2)=='.')
 			return true;
+		else if (line.length()<40)
+			return true;
 		
 		return false;
 	}
