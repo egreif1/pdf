@@ -5,10 +5,13 @@
 
 import java.util.ArrayList;
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
+import java.io.PrintWriter;
 
 public class Company {
 	
@@ -41,7 +44,6 @@ public class Company {
 		String[] parts = directory.split("/");
 		int end = parts.length;
 		name = parts[end-1];
-		System.out.println(name);
 	
 		this.recConvert(directory);
 		
@@ -66,8 +68,11 @@ public class Company {
 			{
 				// convert from pdf to text here!
 				
-				// add to list of files
-				this.files.add(child.getPath());
+				// add to list of files if it's not already there
+				if (files.indexOf(child.getPath().replace(".pdf",".txt")) == -1)
+				{
+					this.files.add(child.getPath().replace(".pdf", ".txt"));
+				}
 			}
 		}
 	}
@@ -89,43 +94,32 @@ public class Company {
 		try
 		{
 			file = new FileReader(f);
-		}
-		catch (FileNotFoundException e)
-		{
-			System.out.println(e.getMessage());
-			System.exit(1);
-		}
 		
-		BufferedReader br = new BufferedReader(file);
-		String line = null;
-		
-		try
-		{
+			BufferedReader br = new BufferedReader(file);
+			String line = null;
+			
 			line = br.readLine();
+			
+			while(line != null)
+			{	
+				// now search the line
+				for (String t : terms)
+				{
+					String rx = t;
+					if (line != null && line.indexOf(rx)!=-1)
+					{
+						this.lines.add(line);
+						break;
+					}
+				}			
+
+				line = br.readLine();
+			}
 		}
-		catch(IOException e)
+		catch (IOException e)
 		{
 			System.out.println(e.getMessage());
 			System.exit(1);
-		}
-		while(line != null)
-		{	
-			// now search the line
-			for (String t : terms)
-			{
-				String rx = t;
-				if (line != null && line.indexOf(rx)!=-1)
-				{
-					this.lines.add(line);
-					break;
-				}
-			}			
-			try {
-				line = br.readLine();
-			} catch (IOException e) {
-				System.out.println(e.getMessage());
-				System.exit(1);
-			}
 		}
 	}
 	
@@ -136,23 +130,111 @@ public class Company {
 		
 		// now buffer though paragraphs and return the matching ones
 		FileReader file = null;
-		try{
-			file = new FileReader(f);
-		}
-		catch(IOException e)
-		{
-			System.out.println(e.getMessage());
-			System.exit(1);
-		}
-
-		BufferedReader br = new BufferedReader(file);
-		String line = null;
-		boolean onblock = false;
-		ArrayList<String> currentParagraph = new ArrayList<String>();
-		
 		try
 		{
+			
+			file = new FileReader(f);
+			
+			BufferedReader br = new BufferedReader(file);
+			String line = null;
+			boolean on_block = false;
+			ArrayList<String> current = new ArrayList<String>();
+			
 			line = br.readLine();
+			
+			while(line != null)
+			{
+
+				if (on_block)
+				{
+					this.matches.add(this.replaceTerms(terms,line));
+					if (this.endsPara(line))
+					{
+						on_block = false;
+						current.clear();
+						this.matches.add("\n\n");
+						line = br.readLine();
+						continue;
+					}
+					
+				}
+				
+				current.add(line);
+
+				String test = line.toLowerCase();
+
+				for (String t : terms)
+				{
+					
+					if (test != null && test.contains(t.toLowerCase()))
+					{
+						for (String p : current)
+						{
+							this.matches.add(this.replaceTerms(terms,p));
+						}
+						on_block = true;
+						current.clear();
+						break;
+					}
+			}
+			
+			if (this.endsPara(line))
+			{
+				current.clear();
+			}
+
+			line = br.readLine();
+			
+			}
+		}
+		catch (IOException e)
+		{
+			System.out.println(e.getMessage());
+			System.exit(1);
+		}
+		
+	}
+	
+	public boolean endsPara(String line)
+	{
+		if (line == "\n")
+			return true;
+		else if (line.length()<2)
+			return true;
+		else if (line.length()<60 && line.charAt(line.length()-2)=='.')
+			return true;
+		
+		return false;
+	}
+	
+	public static void writeParaReport(String file, ArrayList<Company> comps, ArrayList<String> terms)
+	{
+		try{
+			System.out.println("Trying to write out to file.");
+			PrintWriter bw = new PrintWriter(file,"UTF-8");
+			
+
+			// Write out terms header
+			bw.println("PARAGRAPHS MATCHING ");
+			for (String t : terms)
+			{
+				bw.print(t+" ");
+			}
+			
+			bw.print("\n\n");
+			
+			for (Company c : comps)
+			{
+				bw.print(c.name);
+				bw.print("\n\n");
+				ArrayList<String> matches = c.matches;
+				for (String m : matches)
+				{
+					bw.print(m);
+				}
+			}
+
+			bw.close();
 		}
 		catch(IOException e)
 		{
@@ -160,32 +242,57 @@ public class Company {
 			System.exit(1);
 		}
 		
-		while(line != null)
+	}
+	
+	public void findAll(ArrayList<String> terms)
+	{
+		for (String f : this.files)
 		{
-			
-			
-			
-			try {
-				line = br.readLine();
-			} catch (IOException e) {
-				System.out.println(e.getMessage());
-				System.exit(1);
-			}
+			this.findParas(terms,f);
 		}
-		
+	}
+
+	public String replaceTerms(ArrayList<String> terms,String line)
+	{
+		for (String t : terms)
+		{
+			line = line.replace(t,"***"+t+"***");
+		}
+
+		return line;
 	}
 	 
 	public static void main(String[] args)
 	{
-		Company comp = new Company("/home/egreif1/Documents/Coding/PDF/test/");
-		ArrayList<String> terms = new ArrayList<String>();
-		terms.add("China");
-		comp.findLines(terms);
+		ArrayList<Company> comps = new ArrayList<Company>();
 		
-		for (String l : comp.lines)
+		String directory = "/home/egreif1/Documents/Coding/PDF/test";
+		String fout = "/home/egreif1/Documents/Coding/PDF/out.txt";
+		
+		ArrayList<String> terms = new ArrayList<String>();
+		
+		terms.add("outlook");
+		terms.add("guidance");
+
+		// make company object for each directory
+		File parent = new File(directory);
+		for (File child : parent.listFiles())
 		{
-			System.out.println(l);
+			if (child.isDirectory())
+			{
+				comps.add(new Company(child.getPath()));
+			}
 		}
+		
+		for (Company c : comps)
+		{
+
+			c.findAll(terms);
+		}
+		
+		Company.writeParaReport(fout,comps,terms);
+	
+		
 	}
 
 }
