@@ -4,6 +4,12 @@
 // Class for a company's PDF folder
 
 import java.util.ArrayList;
+import org.apache.pdfbox.*;
+import org.apache.pdfbox.exceptions.COSVisitorException;
+import org.apache.pdfbox.pdmodel.PDDocument;
+import org.apache.pdfbox.util.PDFMergerUtility;
+import org.apache.pdfbox.util.PDFTextStripper;
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
@@ -66,14 +72,40 @@ public class Company {
 			}
 			else
 			{
-				// convert from pdf to text here!
-				
-				
-				// add to list of files if it's not already there
-				if (files.indexOf(child.getPath().replace(".pdf",".txt")) == -1)
-				{
-					this.files.add(child.getPath().replace(".pdf", ".txt"));
-				}
+					// convert from pdf to text here!
+					if (child.getPath().indexOf(".pdf")!=-1 || true)
+					{
+						PDDocument pdf;
+						try{
+							pdf = PDDocument.load(child.getPath());
+
+							// extract text
+							PDFTextStripper stripper = new PDFTextStripper();
+							String text = stripper.getText(pdf);
+					
+							// write extracted text to file
+							String outpath = child.getPath().replace(".pdf",".txt");
+
+							PrintWriter pw = new PrintWriter(outpath,"UTF-8");
+						
+							pw.print(text);
+						
+							pw.close();
+						
+							pdf.close();
+	
+							// add to list of files if it's not already there
+							if (files.indexOf(child.getPath().replace(".pdf",".txt")) == -1)
+							{
+								this.files.add(child.getPath().replace(".pdf", ".txt"));
+							}
+							
+						}
+						catch(IOException e)
+						{
+							System.out.println("The error is... " + e.getMessage());
+						}
+					}	
 			}
 		}
 	}
