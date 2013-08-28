@@ -68,6 +68,7 @@ public class Company {
 			{
 				// convert from pdf to text here!
 				
+				
 				// add to list of files if it's not already there
 				if (files.indexOf(child.getPath().replace(".pdf",".txt")) == -1)
 				{
@@ -85,7 +86,7 @@ public class Company {
 	}
 	
 	//find all lines in files containing one or more of the terms
-	public void findLines(ArrayList<String> terms, String f)
+	public void findLines(String[] terms, String f)
 	{
 		// declare the file we are on
 		this.lines.add("Matches for file: " + this.getNameFromPath(f) + "\n\n");
@@ -123,7 +124,7 @@ public class Company {
 		}
 	}
 	
-	public void findParas(ArrayList<String> terms, String f)
+	public void findParas(String[] terms, String f)
 	{
 		// declare what file we are on
 		this.matches.add("Matches for file: " + this.getNameFromPath(f) + "\n\n");
@@ -209,10 +210,9 @@ public class Company {
 		return false;
 	}
 	
-	public static void writeParaReport(String file, ArrayList<Company> comps, ArrayList<String> terms)
+	public static void writeParaReport(String file, ArrayList<Company> comps,String[] terms)
 	{
 		try{
-			System.out.println("Trying to write out to file.");
 			PrintWriter bw = new PrintWriter(file,"UTF-8");
 			
 
@@ -246,7 +246,7 @@ public class Company {
 		
 	}
 	
-	public void findAll(ArrayList<String> terms)
+	public void findAll(String[] terms)
 	{
 		for (String f : this.files)
 		{
@@ -254,7 +254,7 @@ public class Company {
 		}
 	}
 
-	public String replaceTerms(ArrayList<String> terms,String line)
+	public String replaceTerms(String[] terms,String line)
 	{
 		for (String t : terms)
 		{
@@ -262,39 +262,6 @@ public class Company {
 		}
 
 		return line;
-	}
-	 
-	public static void main(String[] args)
-	{
-		ArrayList<Company> comps = new ArrayList<Company>();
-		
-		String directory = "/home/egreif1/Documents/Coding/PDF/test";
-		String fout = "/home/egreif1/Documents/Coding/PDF/out.txt";
-		
-		ArrayList<String> terms = new ArrayList<String>();
-		
-		terms.add("outlook");
-		terms.add("guidance");
-
-		// make company object for each directory
-		File parent = new File(directory);
-		for (File child : parent.listFiles())
-		{
-			if (child.isDirectory())
-			{
-				comps.add(new Company(child.getPath()));
-			}
-		}
-		
-		for (Company c : comps)
-		{
-
-			c.findAll(terms);
-		}
-		
-		Company.writeParaReport(fout,comps,terms);
-	
-		
 	}
 
 }
